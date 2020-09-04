@@ -5,7 +5,3 @@ A repository to host code and data regarding molecular biology-related analysis 
 ## Resources
 
 * Protocols and workflows for the wet lab experiments can be found [here](https://benchling.com/organizations/acubesat/).
-
-## Sneak peeks 
-
-![](./Growth Curve Pipeline.svg)
