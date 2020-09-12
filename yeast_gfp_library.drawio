@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T20:55:48.525Z" agent="5.0 (Windows)" etag="HyG5_otMJZ8D3ei6Ohg4" version="13.6.10" type="gitlab"><diagram id="5gJa6daIo99VFbSKI7US" name="Page-1">5Vtbd9o4EP41PLZHF1/gMUBoerptOM3DJn3Zo2IB3hiLtUUC++t3jGV8BwcwNkteYo3uM58+jUaiQweL9RePLeffhcWdDkHWukOHHUJwT9PhXyDZKAnVSSiZebalZLHgyf6XKyFS0pVtcT9VUArhSHuZFk6E6/KJTMmY54n3dLGpcNK9LtmM5wRPE+bkpX/alpyH0q6OYvkDt2fzqGeMVM6CRYWVwJ8zS7wnRPS+QweeEDL8WqwH3Am0F+klrDcqyd0NzOOurFLhdTF+/WX73776g7++je9/TMfj509a2Mobc1ZqwmqwchNpgFugEJUUnpyLmXCZcx9L+55YuRYPukGQisv8IcQShBiEf3MpN8q6bCUFiOZy4ahc7lp3ga0g6QqXh5KR7TiqyXBMwUBK565Evlh5E75nwhGGmDfjck85srMQYJuLBZfeBup53GHSfkuPgymMzXblYjPAh7LEB6zSvQqrgO69zfOuMCRegpzPepQcrpMlh5vmrNk70Zqq6ljYMEKCFL1RothNkRuhKN1EOC5VK4OJ3TCOhwkugInhgB76NnzM5FbXoeB3VjAV25nEiDL+WYko45O/xcQdFMDGch1nRq18GY2jhmDkYVvp9kGc6xNkiYFlAJ2G6/vclvxpybbWf4e9JQ3NKaBwIBzhbetSA7EeNkHuS0+88kQOGZoGQmpaCfl0+7cbxxv3JF/vh2MePqqCpmVgEG0B7/GGsZPNE5uFgcoRdxJ/GNfFH6gx/iAV+QOjYgScSCAYmc0yCGmAQdCUTdIVYCLezGZ5mnn4+kS/Pxttopops3qWXkQ1jGuYkvNQitk6SukdppRT1IqQjvi0SK0I4WF/UC+Dk15G3VjPqbtboO3saj2btqPTT13q5jrWtttiTt19gFXdGyZGWcepcX0XuVLt2zHP6Tn3qm59+olb30mGiexwQ4ahtbgaFKWXnKZf+KxCS12NJjyLx5+jD3kV5/QgEKOIFXLv0Kyde2nG49RI054Fvr0Y1KmUWnaa6Da8xvXSNa6WdPUFWlPg4qPrvqTo/4YOurh1dFAheHG9Jw29Av0Web71qbvmg12zJw1Dz6ibNnzQIEVuUPs2O7625S6yD9+JwByk4rhckKgjLKesdPiWxqxlJzUyq9TILr9wBvWF5W7OJSL1uERUP2DIuuOr5R5RE6eesSckt93bPPloWSzQpl0dch33NOdc5vXwdS6gWHWdw7zZJlFsGRTw93WEizsaHVkBPsIxnJd2zFbRzkdvi89IOc3eDJutoxxadLFwMSAMHh8fqp6pQesybVrm2DMXviegfQ7W6ge2sSfMuVMZC9uyQkrkMFz2e9tUYGK1rKFdvd/Rh0FbwILhlLZNn8HWeQ7S88Y2CmxNarN1+fuQJlhgr/Er0MAVAgIdBIR5UUCQVgHixw4O/mrXP0lgISG+JeBkr2qKcKNfFDftursZzD2xED5M7pZQgSuEsjC9KCyKohQNHm4HP6E8HHGt1UTeFDKM9D5DCmLKmFwUGe0Ke4xWvi3cEBynxj+uDhz6YScEaxcFR5XX7bmQRDJeoYLTcUD6JZFTHJyO35rGz0tfknn1vzWt/ODGKDbogd0/kp0YStEypxiqZXBQEvrON5R92tq7bOiVVrjYOgJmqDLMwGtKAA1/RhgfANs2NeaeDXMPmKS5N18lz50vA0Ez+xqzeyQEMcr4TLm4ytEYhGT8y62wePwDOHr/Hw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-12T20:57:26.622Z" agent="5.0 (Windows)" etag="oXah1inPdlnge5YY3m4p" version="13.6.10" type="gitlab">
+  <diagram id="5gJa6daIo99VFbSKI7US" name="Page-1">
+    <mxGraphModel dx="1167" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kmPkZisKIsC_KPENfPPX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-1" target="kmPkZisKIsC_KPENfPPX-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-1" target="kmPkZisKIsC_KPENfPPX-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-1" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;GFP&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="445" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-2" target="kmPkZisKIsC_KPENfPPX-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1075" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-2" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;HIS3MX6&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="745" y="200" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="295" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-19" target="kmPkZisKIsC_KPENfPPX-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;ORF&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="375" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-15" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;ORF&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="815" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="575" y="420" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="655" y="435" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-25" target="kmPkZisKIsC_KPENfPPX-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Protein&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="455" y="630" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1015" y="660" />
+              <mxPoint x="1015" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;GFP&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="755" y="630" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-30" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;COOH&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="650" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;COOH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;NH&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="650" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Chromosome&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="435" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;PCR Product&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Fusion Protein&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="650" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-38" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-9" target="kmPkZisKIsC_KPENfPPX-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="340" as="sourcePoint" />
+            <mxPoint x="475" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmPkZisKIsC_KPENfPPX-39" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.533;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kmPkZisKIsC_KPENfPPX-19" target="kmPkZisKIsC_KPENfPPX-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="280" as="sourcePoint" />
+            <mxPoint x="1055" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3MYdML6utKwZ9UahRf6y-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Homologous&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Georgia&quot;&gt;Recombination&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="320" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
