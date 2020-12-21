@@ -116,6 +116,6 @@ plot_grid(g_list[[1]]+guides(fill=FALSE), g_list[[2]], g_list[[3]], g_list[[4]])
 
 ```{r}
 
-growth_analysis("yeast-biology/sc_growth_data_example.csv", 2, 4:9)
+growth_analysis("example.csv", 2, 4:9)
 
 ```

@@ -4,7 +4,7 @@
 # (ii) a number of replicates for each strain
 # (iii) user-defined values/timepoints of OD measurements with cells in the exponential phase (straight line in the linear model) that will be used in the linear regression model (and to calculate the maximal growth rate)
 
-# Note: Input (iii) should be decided after the plotting step, but for convencience in our case, it can be defined here retroscectively.
+# Note: Input (iii) should be decided after the plotting step, but for convencience in our case, it can be defined here retrospectively.
 
 # The outputs are individual and cumulative growth curves (OD versus time), the linear model fit summary and maximal growth rate/doubling time for each strain.
 
