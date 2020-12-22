@@ -1,6 +1,17 @@
+- [Description](#description)
+- [Growth Analysis](#growth-analysis)
+  - [Introduction](#introduction)
+  - [ACubeSAT example](#acubesat-example)
+  - [Code](#code)
+  - [Example](#example)
+- [Resources](#resources)
+- [Bibliography](#bibliography)
+
 ## Description
 
-A repository to host code and data regarding molecular biology-related analysis with a focus on yeast strains, including growth analysis and bioinformatic pipelines.
+A repository to host code and data regarding molecular biology-related analysis with a focus on yeast strains, including growth analysis and bioinformatic pipelines. Here you will currently find some R code to analyze the growth of yeast strains, as well as various figures and `.drawio` files regarding yeast biology-centered parts of the AcubeSAT mission
+
+🎐🧬 Benchling: https://benchling.com/organizations/acubesat/
 
 ## Growth Analysis
 
@@ -56,7 +67,7 @@ Example **output figure**:
 
 ## Resources
 
-* Protocols and workflows for the wet lab experiments can be found [here](https://benchling.com/organizations/acubesat/).
+* **Protocols** and **workflows** for the wet lab experiments can be found on our [Benchling](https://benchling.com/organizations/acubesat/).
 
 ## Bibliography
 
