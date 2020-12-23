@@ -61,7 +61,7 @@ An example `.csv` file containing the data to be parsed is `example.csv`, with c
 |7.5    |1.51                |2                   |1.31               |1.435              |1.55               |1.75               |1.1                |1.47               |
 |8.5    |1.89                |2.1                 |1.795              |1.81               |2.085              |2.34               |1.49               |1.965              |
 
-Example **output figure**:
+An example growth analysis curve (_not using the above table data_) is:
 ![growth curve][growth-curve-example]
 
 [growth-curve-example]: assets/growth_curves_example.png "Example Saccharomyces cerevisiae Growth Curve"
