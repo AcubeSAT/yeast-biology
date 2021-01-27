@@ -19,7 +19,7 @@ A repository to host code and data regarding molecular biology-related analysis 
 - [Description](#description)
 - [Growth Analysis](#growth-analysis)
   - [Introduction](#introduction)
-  - [ACubeSAT example](#acubesat-example)
+  - [AcubeSAT example](#acubesat-example)
   - [Code](#code)
   - [Example](#example)
 - [Resources](#resources)
@@ -33,9 +33,9 @@ A repository to host code and data regarding molecular biology-related analysis 
 
 The conventional microbial population growth in bulk liquid medium is a very well-studied subject `[1]`. The generic four-phase pattern of a standard bacterial population growth is known as the **growth curve**. The **lag phase** is when microorganisms initially adjust to a new environment; for example when introduced into a test tube with new conditions regarding temperature, pH, sugar concentration, etc. The log or **exponential phase** is when cells start dividing regularly and the population rises rapidly, reaching maximum growth rate. As the time passes and cell density increases (in a closed system), nutrients diminish. Other changes, for example pH changes, occur due to the microbial high metabolic rates. Moreover, death rate starts increasing until it *matches* the growth rate. This phase, called **stationary phase**, is characterized by a constant living cell population. The following phase is denoted as **death phase**, which can be described as the situation whereon death rate surpasses growthrate and population declination initiates `[2]`.
 
-### ACubeSAT example
+### AcubeSAT example
 
-The ACubeSAT mission will host a scientific payload, wherein a custom-made lab-on-a-chip will be situated, to allow for multiplexed cell culturing and analysis. This PDMS-based chip will host *Saccharomyces cerevisiae* yeast cells in spore formation. Before the first in-orbit experiment commences, the cells might remain stored inside the spacecraft for up to more than two years. To ensure the cells will still grow in a consistent and timely manner when the time comes, we probed the growth behaviour of the `TAF10-GFP MATa` strains by conducting a growth analysis on both cells and spores after 1 year of storage in RT.
+The AcubeSAT mission will host a scientific payload, wherein a custom-made lab-on-a-chip will be situated, to allow for multiplexed cell culturing and analysis. This PDMS-based chip will host *Saccharomyces cerevisiae* yeast cells in spore formation. Before the first in-orbit experiment commences, the cells might remain stored inside the spacecraft for up to more than two years. To ensure the cells will still grow in a consistent and timely manner when the time comes, we probed the growth behaviour of the `TAF10-GFP MATa` strains by conducting a growth analysis on both cells and spores after 1 year of storage in RT.
 
 ### Code
 
