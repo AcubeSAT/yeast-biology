@@ -1,3 +1,21 @@
+<div align="center">
+<p>
+    <a href="https://benchling.com/organizations/acubesat/">Benchling 🎐🧬</a> &bull;
+    <a href="https://gitlab.com/acubesat/documentation/cdr-public/-/blob/master/DDJF/DDJF_PL.pdf?expanded=true&viewer=rich">DDJF_PL 📚🧪</a> &bull;
+    <a href="https://spacedot.gr/">SpaceDot 🌌🪐</a> &bull;
+    <a href="https://acubesat.spacedot.gr/">AcubeSAT 🛰️🌎</a>
+</p>
+</div>
+
+## Description
+
+A repository to host code and data regarding molecular biology-related analysis with a focus on yeast strains, including growth analysis and bioinformatic pipelines. Here you will currently find some R code to analyze the growth of yeast strains, as well as various figures and `.drawio` files regarding yeast biology-centered parts of the AcubeSAT mission.
+
+## Table of Contents
+
+<details>
+<summary>Click to expand</summary>
+
 - [Description](#description)
 - [Growth Analysis](#growth-analysis)
   - [Introduction](#introduction)
@@ -7,11 +25,7 @@
 - [Resources](#resources)
 - [Bibliography](#bibliography)
 
-## Description
-
-A repository to host code and data regarding molecular biology-related analysis with a focus on yeast strains, including growth analysis and bioinformatic pipelines. Here you will currently find some R code to analyze the growth of yeast strains, as well as various figures and `.drawio` files regarding yeast biology-centered parts of the AcubeSAT mission.
-
-🎐🧬 Benchling: https://benchling.com/organizations/acubesat/
+</details>
 
 ## Growth Analysis
 
