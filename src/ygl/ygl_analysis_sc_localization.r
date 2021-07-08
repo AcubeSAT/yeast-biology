@@ -42,16 +42,9 @@ convert_to_genename <- function(sgd_systematic) {
     return(strsplit(grep(sgd_systematic, SGD, value = TRUE), "\t")[[1]][5])
 }
 
-loc_means_to_df <- function(loc_means, n_tpoints = 40, n_shapes = 6) {
-    shapes <- c("Periphery",
-                "Structure",
-                "Punctate",
-                "Disk",
-                "Corona",
-                "Homogeneous")
-
+loc_means_to_df <- function(loc_means, shapes, n_tpoints = 40) {
     names <- rep(shapes, n_tpoints)
-    timepoints <- rep(1:n_tpoints, each = n_shapes)
+    timepoints <- rep(1:n_tpoints, each = length(shapes))
     vals <- unlist(lapply(loc_means, function(i) unlist(i, recursive = TRUE)))
 
     df <- data.frame(names, timepoints)
@@ -78,7 +71,13 @@ main <- function() {
         genename <- convert_to_genename(sgd_systematic)
         loc_means <- extract_loc_means(sgd_systematic)
         
-        loc_means <- loc_means_to_df(loc_means)
+        shapes <- c("Periphery",
+            "Structure",
+            "Punctate",
+            "Disk",
+            "Corona",
+            "Homogeneous")
+        loc_means <- loc_means_to_df(loc_means, shapes)
 
         plot_path <- paste(genename, ".html", sep="")
         save_plot(plot_df(loc_means), here::here(plot_dir, plot_path))
