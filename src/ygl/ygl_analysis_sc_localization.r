@@ -5,10 +5,11 @@
 
 suppressWarnings(suppressPackageStartupMessages(library(docopt)))
 
+
 "R script to produce interactive YGL localization plots.
 
 Usage:
-  ygl_analysis_sc_localization.R
+  ygl_analysis_sc_localization.R [-q | --no-color]
   ygl_analysis_sc_localization.R (-h | --help)
   ygl_analysis_sc_localization.R (-v | --version)
 
@@ -31,6 +32,14 @@ suppressWarnings(suppressPackageStartupMessages({
     library(R.matlab)
 }))
 
+
+if(arguments$q) {
+    log_threshold(SUCCESS)
+} else {
+    if(!arguments$no_color) {
+        log_layout(layout_glue_colors)
+    }
+}
 
 datafiles_pathname <- "singlecell_datafiles"
 
@@ -116,3 +125,4 @@ main <- function() {
 
 log_info("Executing...")
 main()
+log_success("The script finished running successfully!")
