@@ -1,9 +1,10 @@
-% Analysis of abundance data from Yeast GFP Library from Dénervaud et al.
+% Analysis of abundance data from Yeast GFP Library from Dnervaud et al.
 % 2013. PNAS. Raw data can be found at
 % http://128.179.34.6/twiki/bin/view/CellImaging/WebHome.
 
 clc
 clear all
+
 
 %% Load data
 
@@ -74,7 +75,7 @@ MMS_high_info_included.mean_FC = mean_FC;
 
 %% Check maximum absorbance before-treatment and maximum FC
 
-n = 10; % Choose number of genes to rank
+n = 20; % Choose number of genes to rank
 
 maximum_mean_FC = maxk(mean_FC,n);
 maximum_median_ab = maxk(pre_treatment_ab,n);
@@ -84,13 +85,36 @@ maximum_median_ab = maxk(pre_treatment_ab,n);
 [sharedvals_Names_ab,idx_Names_ab] = intersect(pre_treatment_ab, maximum_median_ab,'sorted'); % Names (Ab)
 [sharedvals_yOrf_ab,idx_yOrf_ab] = intersect(pre_treatment_ab, maximum_median_ab,'sorted'); % yOrf (Ab)
 
-Names_top10_ab = flip(MMS_high_info_included.Name_included(idx_Names_ab)); % Names (Ab)
-yOrf_top10_ab = flip(MMS_high_info_included.yOrf_included(idx_yOrf_ab)); % yOrf (Ab)
+Names_top20_ab = flip(MMS_high_info_included.Name_included(idx_Names_ab)); % Names (Ab)
+yOrf_top20_ab = flip(MMS_high_info_included.yOrf_included(idx_yOrf_ab)); % yOrf (Ab)
 
 %% Find strains that have highest FC
 
 [sharedvals_Names,idx_Names_FC] = intersect(mean_FC, maximum_mean_FC,'sorted'); % Names (FC)
 [sharedvals_yOrf,idx_yOrf_FC] = intersect(mean_FC, maximum_mean_FC,'sorted'); % yOrf (FC)
 
-Names_top10_FC = flip(MMS_high_info_included.Name_included(idx_Names_FC)); % Names (FC)
-yOrf_top10_FC = flip(MMS_high_info_included.yOrf_included(idx_yOrf_FC)); % yOrf (FC)
+Names_top20_FC = flip(MMS_high_info_included.Name_included(idx_Names_FC)); % Names (FC)
+yOrf_top20_FC = flip(MMS_high_info_included.yOrf_included(idx_yOrf_FC)); % yOrf (FC)
+
+
+
+%% Find genes with mean FC < 1
+
+housekeeping_gene_finder = find (MMS_high_info_included.mean_FC(idx_Names_ab)<1)
+
+%% Indicate genes' names
+
+ref_genes =(MMS_high_info_included.Name_included(idx_Names_ab))
+housekeeping_ref = ref_genes (housekeeping_gene_finder)
+
+%% find pre_treatment abundance
+
+for i = 1:length(housekeeping_ref)
+    x = find (strcmp (filename.MMS_high_info.Name,housekeeping_ref(i)))
+    pre_treatment_ab_housekeeping(i,1) = pre_treatment_mean(x)
+end
+
+for i = 1:length(Names_top20_FC)
+    y = find (strcmp (filename.MMS_high_info.Name,Names_top20_FC(i)))
+    pre_treatment_ab_genesFC(i,1) = pre_treatment_mean(y)
+end
