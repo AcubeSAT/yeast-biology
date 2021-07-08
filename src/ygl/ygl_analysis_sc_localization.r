@@ -1,3 +1,23 @@
+# Make sure to launch the R process from the
+# project top-level directory for here() to work.
+# If you can't do that, feel free to play with rprojroot:
+# https://github.com/jennybc/here_here#tldr
+
+suppressWarnings(suppressPackageStartupMessages(library(docopt)))
+
+"R script to produce interactive YGL localization plots.
+
+Usage:
+  dea.R (-h | --help)
+  dea.R (-v | --version)
+
+Options:
+  -h --help     Show this screen.
+  -v --version     Show version.
+
+" -> doc
+arguments <- docopt(doc, version = "YGL-Loc 0.1")
+
 suppressWarnings(suppressPackageStartupMessages({
     library(biomaRt)
     library(dplyr)
