@@ -8,8 +8,9 @@ suppressWarnings(suppressPackageStartupMessages(library(docopt)))
 "R script to produce interactive YGL localization plots.
 
 Usage:
-  dea.R (-h | --help)
-  dea.R (-v | --version)
+  ygl_analysis_sc_localization.R
+  ygl_analysis_sc_localization.R (-h | --help)
+  ygl_analysis_sc_localization.R (-v | --version)
 
 Options:
   -h --help     Show this screen.
@@ -88,7 +89,11 @@ save_plot <- function(plot, path) {
 main <- function() {
     plot_dir <- here::here("plots")
     for (sgd_systematic in extract_scfilenames()) {
+        log_info("{sgd_systematic} found!")
         genename <- convert_to_genename(sgd_systematic)
+        log_info("Gene name: {genename}")
+
+        log_info("Extracting localization means...")
         loc_means <- extract_loc_means(sgd_systematic)
         
         shapes <- c("Periphery",
@@ -97,11 +102,17 @@ main <- function() {
             "Disk",
             "Corona",
             "Homogeneous")
+        log_info("Converting to dataframe...")
         loc_means <- loc_means_to_df(loc_means, shapes)
 
+        log_info("Plotting...")
+        p <- plot_df(loc_means)
+
         plot_path <- paste(genename, ".html", sep="")
-        save_plot(plot_df(loc_means), here::here(plot_dir, plot_path))
+        log_info("Saving plot...")
+        save_plot(p, here::here(plot_dir, plot_path))
     }
 }
 
+log_info("Executing...")
 main()
