@@ -67,9 +67,9 @@ extract_scfilenames <- function() {
 }
 
 convert_to_genename <- function(sgd_systematic) {
-    SGD_path <- here::here("SGD_features.tab")
-    SGD <- readLines(SGD_path)
-    return(strsplit(grep(sgd_systematic, SGD, value = TRUE), "\t")[[1]][5])
+    sgd_path <- here::here("SGD_features.tab")
+    sgd <- readLines(sgd_path)
+    return(strsplit(grep(sgd_systematic, sgd, value = TRUE), "\t")[[1]][5])
 }
 
 loc_means_to_df <- function(loc_means, shapes, n_tpoints = 40) {
@@ -87,7 +87,7 @@ plot_df <- function(df) {
     p <- df %>%
         ggplot(aes(x = timepoints, y = values, group = names, color = names)) +
         geom_line()
-    l <- ggplotly(p)
+    l <- plotly::ggplotly(p)
     return(l)
 }
 
@@ -98,11 +98,11 @@ save_plot <- function(plot, path) {
 main <- function() {
     plot_dir <- here::here("plots")
     for (sgd_systematic in extract_scfilenames()) {
-        log_info("{sgd_systematic} found!")
+        logger::log_info("{sgd_systematic} found!")
         genename <- convert_to_genename(sgd_systematic)
-        log_info("Gene name: {genename}")
+        logger::log_info("Gene name: {genename}")
 
-        log_info("Extracting localization means...")
+        logger::log_info("Extracting localization means...")
         loc_means <- extract_loc_means(sgd_systematic)
 
         shapes <- c(
@@ -113,18 +113,18 @@ main <- function() {
             "Corona",
             "Homogeneous"
         )
-        log_info("Converting to dataframe...")
+        logger::log_info("Converting to dataframe...")
         loc_means <- loc_means_to_df(loc_means, shapes)
 
-        log_info("Plotting...")
+        logger::log_info("Plotting...")
         p <- plot_df(loc_means)
 
         plot_path <- paste(genename, ".html", sep = "")
-        log_info("Saving plot...")
+        logger::log_info("Saving plot...")
         save_plot(p, here::here(plot_dir, plot_path))
     }
 }
 
-log_info("Executing...")
+logger::log_info("Executing...")
 main()
 log_success("The script finished running successfully!")
