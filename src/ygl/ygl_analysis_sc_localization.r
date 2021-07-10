@@ -9,6 +9,8 @@ suppressWarnings(suppressPackageStartupMessages(library(docopt)))
 "R script to produce interactive YGL localization plots.
 
 Usage:
+  ygl_analysis_sc_localization.R [--plots]
+  ygl_analysis_sc_localization.R --plots [-q | --no-color]
   ygl_analysis_sc_localization.R [-q | --no-color]
   ygl_analysis_sc_localization.R (-h | --help)
   ygl_analysis_sc_localization.R (-v | --version)
@@ -30,6 +32,7 @@ suppressWarnings(suppressPackageStartupMessages({
     library(logger)
     library(plotly)
     library(R.matlab)
+    library(tibble)
 }))
 
 
@@ -77,7 +80,7 @@ loc_means_to_df <- function(loc_means, shapes, n_tpoints = 40) {
     timepoints <- rep(1:n_tpoints, each = length(shapes))
     vals <- unlist(lapply(loc_means, function(i) unlist(i, recursive = TRUE)))
 
-    df <- data.frame(names, timepoints)
+    df <- tibble::tibble(names, timepoints)
     df$values <- vals
 
     return(df)
@@ -115,13 +118,14 @@ main <- function() {
         )
         logger::log_info("Converting to dataframe...")
         loc_means <- loc_means_to_df(loc_means, shapes)
+        if (arguments$plots) {
+            logger::log_info("Plotting...")
+            p <- plot_df(loc_means)
 
-        logger::log_info("Plotting...")
-        p <- plot_df(loc_means)
-
-        plot_path <- paste(genename, ".html", sep = "")
-        logger::log_info("Saving plot...")
-        save_plot(p, here::here(plot_dir, plot_path))
+            plot_path <- paste(genename, ".html", sep = "")
+            logger::log_info("Saving plot...")
+            save_plot(p, here::here(plot_dir, plot_path))
+        }
     }
 }
 
