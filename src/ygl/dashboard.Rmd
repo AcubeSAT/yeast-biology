@@ -1,0 +1,67 @@
+---
+title: "YGL Gene Localizations"
+author: "Orestis Ousoultzoglou"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(arrow)
+library(ggplot2)
+library(here)
+library(plotly)
+library(flexdashboard)
+```
+
+HIS4
+=======================================================================
+
+```{r HIS4}
+df <- arrow::read_feather(here::here("tibbles", "HIS4.feather"))
+p <- ggplot(df, aes(x = timepoints, y = values, group = names, color = names)) +
+  geom_line()
+ggplotly(p)
+```
+
+HUG1
+=======================================================================
+
+```{r HUG1}
+df <- arrow::read_feather(here::here("tibbles", "HUG1.feather"))
+p <- ggplot(df, aes(x = timepoints, y = values, group = names, color = names)) +
+  geom_line()
+ggplotly(p)
+```
+
+RNR3
+=======================================================================
+
+```{r RNR3}
+df <- arrow::read_feather(here::here("tibbles", "RNR3.feather"))
+p <- ggplot(df, aes(x = timepoints, y = values, group = names, color = names)) +
+  geom_line()
+ggplotly(p)
+```
+
+RNR4
+=======================================================================
+
+```{r RNR4}
+df <- arrow::read_feather(here::here("tibbles", "RNR4.feather"))
+p <- ggplot(df, aes(x = timepoints, y = values, group = names, color = names)) +
+  geom_line()
+ggplotly(p)
+```
+
+RPL8A
+=======================================================================
+
+```{r RPL8A}
+df <- arrow::read_feather(here::here("tibbles", "RPL8A.feather"))
+p <- ggplot(df, aes(x = timepoints, y = values, group = names, color = names)) +
+  geom_line()
+ggplotly(p)
+```

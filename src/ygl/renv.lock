@@ -145,6 +145,13 @@
       "Repository": "CRAN",
       "Hash": "59b7d0a3d18303ae30ba1246e77faa83"
     },
+    "arrow": {
+      "Package": "arrow",
+      "Version": "4.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "6c1d55eba1db16126145fb75a447f031"
+    },
     "askpass": {
       "Package": "askpass",
       "Version": "1.1",
