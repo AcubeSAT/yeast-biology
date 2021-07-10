@@ -33,6 +33,11 @@ suppressWarnings(suppressPackageStartupMessages({
     library(plotly)
     library(R.matlab)
     library(tibble)
+    # For saving the tibbles.
+    library(arrow)
+    # For the flexboard plots.
+    library(rmarkdown)
+    library(flexdashboard)
 }))
 
 
@@ -100,6 +105,7 @@ save_plot <- function(plot, path) {
 
 main <- function() {
     plot_dir <- here::here("plots")
+    tibble_dir <- here::here("tibbles")
     for (sgd_systematic in extract_scfilenames()) {
         logger::log_info("{sgd_systematic} found!")
         genename <- convert_to_genename(sgd_systematic)
@@ -118,6 +124,10 @@ main <- function() {
         )
         logger::log_info("Converting to dataframe...")
         loc_means <- loc_means_to_df(loc_means, shapes)
+
+        tibble_path <- paste(genename, ".feather", sep = "")
+        arrow::write_feather(loc_means, here::here(tibble_dir, tibble_path))
+
         if (arguments$plots) {
             logger::log_info("Plotting...")
             p <- plot_df(loc_means)
