@@ -33,10 +33,10 @@ suppressWarnings(suppressPackageStartupMessages({
 }))
 
 
-if(arguments$q) {
+if (arguments$q) {
     log_threshold(SUCCESS)
 } else {
-    if(!arguments$no_color) {
+    if (!arguments$no_color) {
         log_layout(layout_glue_colors)
     }
 }
@@ -57,11 +57,11 @@ extract_loc_means <- function(sgd_systematic) {
 }
 
 extract_scfilenames <- function() {
-    names = list()
+    names <- list()
     i <- 1
     for (filename in list.files(here::here(datafiles_pathname))) {
-       names[i] <- (unlist(strsplit(filename, split='_', fixed=TRUE))[1])
-       i <- i + 1
+        names[i] <- (unlist(strsplit(filename, split = "_", fixed = TRUE))[1])
+        i <- i + 1
     }
     return(unlist(names))
 }
@@ -85,8 +85,8 @@ loc_means_to_df <- function(loc_means, shapes, n_tpoints = 40) {
 
 plot_df <- function(df) {
     p <- df %>%
-        ggplot( aes(x=timepoints, y=values, group=names, color=names)) +
-            geom_line()
+        ggplot(aes(x = timepoints, y = values, group = names, color = names)) +
+        geom_line()
     l <- ggplotly(p)
     return(l)
 }
@@ -104,20 +104,22 @@ main <- function() {
 
         log_info("Extracting localization means...")
         loc_means <- extract_loc_means(sgd_systematic)
-        
-        shapes <- c("Periphery",
+
+        shapes <- c(
+            "Periphery",
             "Structure",
             "Punctate",
             "Disk",
             "Corona",
-            "Homogeneous")
+            "Homogeneous"
+        )
         log_info("Converting to dataframe...")
         loc_means <- loc_means_to_df(loc_means, shapes)
 
         log_info("Plotting...")
         p <- plot_df(loc_means)
 
-        plot_path <- paste(genename, ".html", sep="")
+        plot_path <- paste(genename, ".html", sep = "")
         log_info("Saving plot...")
         save_plot(p, here::here(plot_dir, plot_path))
     }
