@@ -32,6 +32,7 @@ suppressWarnings(suppressPackageStartupMessages({
     library(logger)
     library(plotly)
     library(R.matlab)
+    library(stringr)
     library(tibble)
     # For saving the tibbles.
     library(arrow)
@@ -86,15 +87,41 @@ loc_means_to_df <- function(loc_means, shapes, n_tpoints = 40) {
     vals <- unlist(lapply(loc_means, function(i) unlist(i, recursive = TRUE)))
 
     df <- tibble::tibble(names, timepoints)
-    df$values <- vals
+    df$loc_probabilities <- vals
 
     return(df)
 }
 
 plot_df <- function(df) {
     p <- df %>%
-        ggplot(aes(x = timepoints, y = values, group = names, color = names)) +
-        geom_line()
+        ggplot(aes(
+            x = timepoints,
+            y = loc_probabilities,
+            group = names,
+            color = names
+        )) +
+        geom_line() +
+        labs(
+            x = "Observation Timepoints",
+            y = "Localization Probability",
+            color = "Shapes"
+        ) +
+        theme(
+            axis.title = element_text(
+                size = 15,
+                color = "firebrick"
+            ),
+            axis.text = element_text(
+                color = "dodgerblue",
+                size = 12
+            ),
+            legend.title = element_text(
+                size = 15,
+                color = "firebrick",
+                face = "italic"
+            )
+        ) +
+        ggtitle(str_glue("{df$genename} Localization"))
     l <- plotly::ggplotly(p)
     return(l)
 }
@@ -106,6 +133,9 @@ save_plot <- function(plot, path) {
 main <- function() {
     plot_dir <- here::here("plots")
     tibble_dir <- here::here("tibbles")
+
+    ggplot2::theme_set(ggplot2::theme_bw())
+
     for (sgd_systematic in extract_scfilenames()) {
         logger::log_info("{sgd_systematic} found!")
         genename <- convert_to_genename(sgd_systematic)
@@ -122,9 +152,11 @@ main <- function() {
             "Corona",
             "Homogeneous"
         )
-        logger::log_info("Converting to dataframe...")
+        logger::log_info("Converting to tibble...")
         loc_means <- loc_means_to_df(loc_means, shapes)
+        loc_means$genename <- genename
 
+        logger::log_info("Saving tibble as feather binary...")
         tibble_path <- paste(genename, ".feather", sep = "")
         arrow::write_feather(loc_means, here::here(tibble_dir, tibble_path))
 
