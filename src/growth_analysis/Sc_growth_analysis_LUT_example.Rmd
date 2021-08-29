@@ -1,0 +1,117 @@
+---
+title: "Sc_growth_analysis_LUT_example"
+author: "Asterios Arampatzis"
+date: "8/29/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Load packages
+
+```{r}
+
+library(ggplot2)
+library(tidyverse)
+library(viridis)
+library(dplyr)
+library(tidyr)
+library(data.table)
+
+```
+
+# Set paths
+
+```{r}
+
+data_path <- ""
+design_path <- ""
+
+```
+
+# Load data & preprocessing
+
+```{r}
+
+growth_data <- read.csv(data_path, header = TRUE)
+
+new_colnames <- c( "Sample", "0", "2", "4", "6", "8", "10", "12")
+
+setDT(growth_data)
+setnames(growth_data, old = colnames(growth_data), new = new_colnames)
+
+```
+
+# Append replicate indexes from a LUT (experimental design/specifications)
+
+```{r}
+
+# Use the very helpful addNewData.R from https://gist.github.com/dfalster/5589956
+
+source("addNewData.R")
+experimental_specs <- c("Replicate", "Strain", "Cycles")
+growth_data <- addNewData(design_path, growth_data, experimental_specs)
+
+```
+
+# Behold some R magic
+
+```{r}
+
+growth_data %>%
+  gather(key, value, "0":last(new_colnames)) %>%
+  spread(Sample, value) ->  growth_data
+
+growth_data %>%
+  mutate(OD = fcoalesce(growth_data[,c((length(experimental_specs) + 2):length(growth_data))])) %>%
+  select(Replicate, Strain, Cycles, key, OD) -> growth_data
+
+colnames(growth_data)[(length(experimental_specs) + 1)] <- "Timepoint"
+
+```
+
+# Calculate mean & sd of replicates
+
+```{r}
+
+# Function to calculate mean, sd
+
+data_summary <- function(data, varname, groupnames){
+  require(plyr)
+  summary_func <- function(x, col){
+    c(mean = mean(x[[col]], na.rm=TRUE),
+      sd = sd(x[[col]], na.rm=TRUE))
+  }
+  data_sum<-ddply(data, groupnames, .fun=summary_func,
+                  varname)
+  data_sum <- rename(data_sum, c("mean" = varname))
+  return(data_sum)
+}
+
+growth_data_summary <- data_summary(growth_data, c("OD"),
+                                          groupnames=c(experimental_specs[experimental_specs != "Replicate"], "Timepoint"))
+
+```
+
+# Example plotting
+
+```{r}
+
+Growth_curve_single <- ggplot(growth_data_summary, aes(x = as.numeric(Timepoint), y=OD, color = Cycles)) +
+    #geom_line(size = 1) +
+    geom_point() + 
+    theme_bw() + labs(x = "Time(hours)", y ="OD") +
+    scale_color_viridis(option = "G", discrete = TRUE) +
+    geom_errorbar(aes(ymin=OD-sd, ymax=OD+sd), width=.2,
+                   position=position_dodge(.01)) + scale_color_viridis(option = "G", discrete = TRUE)
+
+Growth_curves <- growth_data_summary %>%
+    group_by(Strain) %>%
+    do(plots = Growth_curve_single %+% . + facet_wrap(~Strain))
+
+Growth_curves$plots
+
+```
+
