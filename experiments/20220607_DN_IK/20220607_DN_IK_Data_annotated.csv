@@ -1,0 +1,2143 @@
+"","Well","OD","Time","Plate","ID","Strain","State","Trehalose","Condition","Medium","Replicate"
+"1","A1",0.1196,0,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"2","B1",0.1216,0,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"3","C1",0.123,0,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"4","D1",0.1218,0,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"7","G1",0.1169,0,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"8","H1",0.1097,0,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"9","A1",0.1269,2,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"10","B1",0.1296,2,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"11","C1",0.1283,2,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"12","D1",0.1315,2,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"15","G1",0.1162,2,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"16","H1",0.1094,2,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"17","A1",0.1427,4,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"18","B1",0.1401,4,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"19","C1",0.1366,4,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"20","D1",0.1447,4,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"23","G1",0.1172,4,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"24","H1",0.1098,4,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"25","A1",0.1627,6,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"26","B1",0.1477,6,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"27","C1",0.1495,6,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"28","D1",0.1533,6,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"31","G1",0.1158,6,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"32","H1",0.1094,6,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"33","A1",0.1699,8,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"34","B1",0.1548,8,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"35","C1",0.1644,8,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"36","D1",0.1516,8,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"39","G1",0.1155,8,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"40","H1",0.109,8,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"41","A1",0.1678,10,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"42","B1",0.158,10,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"43","C1",0.1684,10,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"44","D1",0.1457,10,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"47","G1",0.1156,10,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"48","H1",0.1085,10,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"49","A1",0.1637,12,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"50","B1",0.1852,12,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"51","C1",0.1708,12,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"52","D1",0.1425,12,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"55","G1",0.1154,12,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"56","H1",0.1088,12,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"57","A1",0.1578,14,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"58","B1",0.2261,14,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"59","C1",0.2283,14,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"60","D1",0.1416,14,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"63","G1",0.1171,14,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"64","H1",0.1088,14,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"65","A1",0.1548,16,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"66","B1",0.272,16,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"67","C1",0.3859,16,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"68","D1",0.1411,16,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"71","G1",0.1149,16,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"72","H1",0.1087,16,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"73","A1",0.1509,18,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"74","B1",0.3192,18,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"75","C1",0.5196,18,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"76","D1",0.1403,18,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"79","G1",0.1148,18,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"80","H1",0.1084,18,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"81","A1",0.1557,20,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"82","B1",0.3767,20,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"83","C1",1.043,20,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"84","D1",0.1415,20,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"87","G1",0.1141,20,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"88","H1",0.1085,20,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"89","A1",0.1523,22,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"90","B1",0.442,22,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"91","C1",1.313,22,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"92","D1",0.1417,22,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"95","G1",0.1143,22,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"96","H1",0.1084,22,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"97","A1",0.1523,24,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"98","B1",0.5252,24,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"99","C1",1.4701,24,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"100","D1",0.1421,24,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"103","G1",0.1135,24,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"104","H1",0.1082,24,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"105","A1",0.1498,26,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"106","B1",0.6409,26,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"107","C1",1.5173,26,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"108","D1",0.141,26,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"111","G1",0.1139,26,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"112","H1",0.108,26,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"113","A1",0.1568,28,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"114","B1",0.6569,28,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"115","C1",1.5241,28,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"116","D1",0.1443,28,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"119","G1",0.1284,28,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"120","H1",0.1084,28,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"121","A1",0.1564,30,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"122","B1",0.7964,30,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"123","C1",1.5353,30,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"124","D1",0.1452,30,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"127","G1",0.1139,30,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"128","H1",0.1079,30,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"129","A1",0.1547,32,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"130","B1",0.894,32,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"131","C1",1.5666,32,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"132","D1",0.1477,32,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"135","G1",0.1134,32,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"136","H1",0.1077,32,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"137","A1",0.1546,34,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"138","B1",0.9511,34,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"139","C1",1.5674,34,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"140","D1",0.153,34,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"143","G1",0.1134,34,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"144","H1",0.1078,34,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"145","A1",0.1602,36,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"146","B1",1.0185,36,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"147","C1",1.5869,36,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"148","D1",0.1798,36,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"151","G1",0.1133,36,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"152","H1",0.1077,36,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"153","A1",0.1643,38,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"154","B1",1.0682,38,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"155","C1",1.5856,38,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"156","D1",0.2742,38,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"159","G1",0.1132,38,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"160","H1",0.1075,38,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"161","A1",0.1647,40,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"162","B1",1.0973,40,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"163","C1",1.6081,40,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"164","D1",0.4952,40,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"167","G1",0.1129,40,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"168","H1",0.1074,40,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"169","A1",0.1645,42,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"170","B1",1.1456,42,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"171","C1",1.6358,42,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"172","D1",0.8248,42,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"175","G1",0.1121,42,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"176","H1",0.1075,42,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"177","A1",0.1622,44,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"178","B1",1.164,44,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"179","C1",1.6298,44,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"180","D1",1.0596,44,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"183","G1",0.1126,44,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"184","H1",0.1071,44,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"185","A1",0.1608,46,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"186","B1",1.1767,46,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"187","C1",1.4221,46,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"188","D1",1.319,46,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"191","G1",0.1126,46,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"192","H1",0.1072,46,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"193","A1",0.1576,48,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"194","B1",1.1338,48,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"195","C1",1.412,48,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"196","D1",1.4138,48,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"199","G1",0.1116,48,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"200","H1",0.1069,48,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"201","A1",0.1561,50,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"202","B1",1.1501,50,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"203","C1",1.3635,50,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"204","D1",1.465,50,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"207","G1",0.1114,50,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"208","H1",0.1069,50,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"209","A1",0.1547,52,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"210","B1",1.0969,52,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"211","C1",1.2765,52,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"212","D1",1.4933,52,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"215","G1",0.1114,52,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"216","H1",0.107,52,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"217","A1",0.1523,54,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"218","B1",1.0185,54,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"219","C1",1.3204,54,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"220","D1",1.535,54,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"223","G1",0.1118,54,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"224","H1",0.1068,54,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"225","A1",0.1518,56,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"226","B1",0.975,56,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"227","C1",1.4793,56,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"228","D1",1.5481,56,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"231","G1",0.1114,56,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"232","H1",0.1067,56,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"233","A1",0.1504,58,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"234","B1",0.9547,58,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"235","C1",1.5638,58,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"236","D1",1.5583,58,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"239","G1",0.1112,58,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"240","H1",0.1066,58,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"241","A1",0.1481,60,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"242","B1",0.9682,60,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"243","C1",1.3841,60,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"244","D1",1.591,60,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"247","G1",0.1109,60,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"248","H1",0.1066,60,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"249","A1",0.1466,62,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"250","B1",0.9611,62,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"251","C1",1.4417,62,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"252","D1",1.6069,62,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"255","G1",0.1109,62,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"256","H1",0.1066,62,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"257","A1",0.1451,64,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"258","B1",0.9784,64,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"259","C1",1.5729,64,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"260","D1",1.6271,64,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"263","G1",0.1108,64,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"264","H1",0.1062,64,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"265","A1",0.1441,66,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"266","B1",0.9871,66,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"267","C1",1.6319,66,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"268","D1",1.6411,66,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"271","G1",0.1106,66,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"272","H1",0.1062,66,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"273","A1",0.1427,68,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"274","B1",0.9865,68,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"275","C1",1.6726,68,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"276","D1",1.6518,68,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"279","G1",0.1107,68,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"280","H1",0.1063,68,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"281","A1",0.142,70,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"282","B1",0.9913,70,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"283","C1",1.724,70,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"284","D1",1.6638,70,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"287","G1",0.1107,70,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"288","H1",0.1062,70,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"289","A1",0.1406,72,1,"1-A1","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",1
+"290","B1",0.9944,72,1,"1-B1","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",1
+"291","C1",1.7756,72,1,"1-C1","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",1
+"292","D1",1.6726,72,1,"1-D1","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",1
+"295","G1",0.1103,72,1,"1-G1","YPD-Blank","Liquid","No","RT","YPD",1
+"296","H1",0.1061,72,1,"1-H1","YPD-Blank","Liquid","Growth Medium","RT","YPD",1
+"297","A2",0.1192,0,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"298","B2",0.126,0,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"299","C2",0.122,0,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"300","D2",0.1215,0,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"303","G2",0.1208,0,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"304","H2",0.1106,0,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"305","A2",0.1301,2,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"306","B2",0.1495,2,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"307","C2",0.1271,2,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"308","D2",0.1246,2,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"311","G2",0.1201,2,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"312","H2",0.1103,2,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"313","A2",0.1519,4,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"314","B2",0.1615,4,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"315","C2",0.1374,4,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"316","D2",0.1306,4,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"319","G2",0.1201,4,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"320","H2",0.1102,4,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"321","A2",0.1706,6,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"322","B2",0.157,6,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"323","C2",0.154,6,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"324","D2",0.139,6,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"327","G2",0.1198,6,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"328","H2",0.11,6,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"329","A2",0.1793,8,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"330","B2",0.153,8,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"331","C2",0.1746,8,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"332","D2",0.146,8,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"335","G2",0.1198,8,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"336","H2",0.1098,8,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"337","A2",0.1813,10,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"338","B2",0.1523,10,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"339","C2",0.1908,10,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"340","D2",0.1492,10,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"343","G2",0.1197,10,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"344","H2",0.1096,10,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"345","A2",0.1775,12,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"346","B2",0.1507,12,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"347","C2",0.2017,12,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"348","D2",0.1506,12,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"351","G2",0.1193,12,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"352","H2",0.1103,12,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"353","A2",0.1715,14,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"354","B2",0.1476,14,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"355","C2",0.2387,14,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"356","D2",0.1493,14,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"359","G2",0.1185,14,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"360","H2",0.1105,14,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"361","A2",0.1661,16,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"362","B2",0.1451,16,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"363","C2",0.3638,16,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"364","D2",0.1479,16,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"367","G2",0.1189,16,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"368","H2",0.11,16,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"369","A2",0.1599,18,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"370","B2",0.1426,18,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"371","C2",0.7159,18,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"372","D2",0.1451,18,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"375","G2",0.1182,18,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"376","H2",0.1099,18,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"377","A2",0.16,20,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"378","B2",0.1429,20,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"379","C2",0.9609,20,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"380","D2",0.151,20,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"383","G2",0.1168,20,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"384","H2",0.1102,20,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"385","A2",0.1554,22,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"386","B2",0.1408,22,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"387","C2",1.2477,22,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"388","D2",0.1894,22,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"391","G2",0.1174,22,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"392","H2",0.1099,22,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"393","A2",0.154,24,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"394","B2",0.1398,24,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"395","C2",1.3815,24,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"396","D2",0.2075,24,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"399","G2",0.1168,24,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"400","H2",0.1098,24,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"401","A2",0.1538,26,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"402","B2",0.1366,26,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"403","C2",1.5114,26,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"404","D2",0.2255,26,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"407","G2",0.1168,26,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"408","H2",0.1098,26,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"409","A2",0.1577,28,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"410","B2",0.1379,28,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"411","C2",1.5471,28,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"412","D2",0.2313,28,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"415","G2",0.1546,28,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"416","H2",0.1373,28,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"417","A2",0.157,30,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"418","B2",0.137,30,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"419","C2",1.5638,30,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"420","D2",0.2533,30,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"423","G2",0.1167,30,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"424","H2",0.1098,30,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"425","A2",0.1574,32,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"426","B2",0.1349,32,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"427","C2",1.5709,32,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"428","D2",0.2752,32,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"431","G2",0.1162,32,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"432","H2",0.1098,32,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"433","A2",0.1569,34,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"434","B2",0.1346,34,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"435","C2",1.5914,34,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"436","D2",0.291,34,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"439","G2",0.1163,34,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"440","H2",0.1104,34,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"441","A2",0.1601,36,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"442","B2",0.1317,36,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"443","C2",1.6123,36,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"444","D2",0.303,36,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"447","G2",0.116,36,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"448","H2",0.1107,36,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"449","A2",0.166,38,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"450","B2",0.1306,38,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"451","C2",1.6245,38,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"452","D2",0.3061,38,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"455","G2",0.1154,38,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"456","H2",0.1102,38,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"457","A2",0.1658,40,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"458","B2",0.1293,40,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"459","C2",1.6181,40,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"460","D2",0.3127,40,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"463","G2",0.1149,40,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"464","H2",0.1105,40,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"465","A2",0.1624,42,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"466","B2",0.1284,42,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"467","C2",1.6227,42,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"468","D2",0.3141,42,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"471","G2",0.115,42,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"472","H2",0.1104,42,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"473","A2",0.159,44,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"474","B2",0.1273,44,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"475","C2",1.5997,44,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"476","D2",0.3032,44,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"479","G2",0.1141,44,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"480","H2",0.1106,44,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"481","A2",0.1566,46,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"482","B2",0.1265,46,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"483","C2",1.5737,46,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"484","D2",0.3115,46,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"487","G2",0.1143,46,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"488","H2",0.1095,46,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"489","A2",0.1554,48,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"490","B2",0.1242,48,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"491","C2",1.4472,48,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"492","D2",0.3204,48,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"495","G2",0.1143,48,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"496","H2",0.1096,48,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"497","A2",0.1524,50,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"498","B2",0.1228,50,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"499","C2",1.2786,50,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"500","D2",0.3209,50,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"503","G2",0.1137,50,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"504","H2",0.1093,50,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"505","A2",0.1521,52,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"506","B2",0.1221,52,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"507","C2",1.5804,52,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"508","D2",0.3148,52,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"511","G2",0.1136,52,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"512","H2",0.1093,52,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"513","A2",0.1516,54,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"514","B2",0.1213,54,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"515","C2",1.3857,54,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"516","D2",0.3129,54,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"519","G2",0.1134,54,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"520","H2",0.1092,54,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"521","A2",0.157,56,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"522","B2",0.1195,56,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"523","C2",1.3866,56,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"524","D2",0.3096,56,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"527","G2",0.1137,56,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"528","H2",0.1089,56,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"529","A2",0.157,58,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"530","B2",0.1189,58,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"531","C2",1.3892,58,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"532","D2",0.3032,58,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"535","G2",0.1136,58,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"536","H2",0.1093,58,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"537","A2",0.1565,60,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"538","B2",0.1182,60,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"539","C2",1.1578,60,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"540","D2",0.301,60,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"543","G2",0.113,60,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"544","H2",0.109,60,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"545","A2",0.1533,62,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"546","B2",0.1175,62,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"547","C2",1.5132,62,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"548","D2",0.2973,62,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"551","G2",0.1129,62,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"552","H2",0.1092,62,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"553","A2",0.1523,64,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"554","B2",0.1166,64,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"555","C2",1.5564,64,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"556","D2",0.2941,64,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"559","G2",0.1126,64,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"560","H2",0.109,64,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"561","A2",0.1503,66,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"562","B2",0.116,66,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"563","C2",1.5915,66,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"564","D2",0.2922,66,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"567","G2",0.1124,66,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"568","H2",0.1088,66,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"569","A2",0.1494,68,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"570","B2",0.1151,68,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"571","C2",1.5621,68,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"572","D2",0.289,68,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"575","G2",0.1123,68,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"576","H2",0.109,68,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"577","A2",0.151,70,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"578","B2",0.114,70,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"579","C2",1.7247,70,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"580","D2",0.2863,70,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"583","G2",0.1124,70,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"584","H2",0.1087,70,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"585","A2",0.1497,72,1,"1-A2","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",2
+"586","B2",0.113,72,1,"1-B2","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",2
+"587","C2",1.7537,72,1,"1-C2","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",2
+"588","D2",0.283,72,1,"1-D2","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",2
+"591","G2",0.112,72,1,"1-G2","YPD-Blank","Liquid","No","RT","YPD",2
+"592","H2",0.1087,72,1,"1-H2","YPD-Blank","Liquid","Growth Medium","RT","YPD",2
+"593","A3",0.121,0,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"594","B3",0.1172,0,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"595","C3",0.125,0,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"596","D3",0.1202,0,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"599","G3",0.1168,0,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"600","H3",0.1122,0,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"601","A3",0.1307,2,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"602","B3",0.1244,2,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"603","C3",0.1308,2,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"604","D3",0.1263,2,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"607","G3",0.1171,2,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"608","H3",0.112,2,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"609","A3",0.1441,4,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"610","B3",0.1391,4,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"611","C3",0.1407,4,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"612","D3",0.1368,4,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"615","G3",0.1168,4,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"616","H3",0.1118,4,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"617","A3",0.157,6,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"618","B3",0.1533,6,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"619","C3",0.1555,6,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"620","D3",0.1508,6,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"623","G3",0.1167,6,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"624","H3",0.1117,6,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"625","A3",0.1654,8,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"626","B3",0.1545,8,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"627","C3",0.1762,8,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"628","D3",0.1639,8,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"631","G3",0.1176,8,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"632","H3",0.1115,8,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"633","A3",0.1714,10,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"634","B3",0.149,10,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"635","C3",0.2043,10,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"636","D3",0.1707,10,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"639","G3",0.1165,10,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"640","H3",0.1114,10,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"641","A3",0.1731,12,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"642","B3",0.147,12,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"643","C3",0.2327,12,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"644","D3",0.1748,12,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"647","G3",0.1167,12,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"648","H3",0.1132,12,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"649","A3",0.1718,14,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"650","B3",0.1446,14,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"651","C3",0.2412,14,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"652","D3",0.1733,14,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"655","G3",0.1163,14,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"656","H3",0.1112,14,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"657","A3",0.1672,16,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"658","B3",0.1445,16,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"659","C3",0.3365,16,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"660","D3",0.17,16,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"663","G3",0.1159,16,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"664","H3",0.1112,16,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"665","A3",0.1618,18,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"666","B3",0.1432,18,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"667","C3",0.5776,18,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"668","D3",0.1603,18,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"671","G3",0.1159,18,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"672","H3",0.1109,18,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"673","A3",0.1576,20,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"674","B3",0.1423,20,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"675","C3",1.0545,20,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"676","D3",0.1601,20,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"679","G3",0.1152,20,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"680","H3",0.1109,20,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"681","A3",0.1515,22,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"682","B3",0.1411,22,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"683","C3",1.2745,22,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"684","D3",0.1535,22,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"687","G3",0.1151,22,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"688","H3",0.1105,22,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"689","A3",0.1514,24,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"690","B3",0.1401,24,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"691","C3",1.4157,24,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"692","D3",0.1511,24,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"695","G3",0.1147,24,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"696","H3",0.1107,24,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"697","A3",0.1529,26,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"698","B3",0.1394,26,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"699","C3",1.4726,26,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"700","D3",0.1509,26,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"703","G3",0.1142,26,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"704","H3",0.1104,26,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"705","A3",0.1635,28,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"706","B3",0.1419,28,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"707","C3",1.5065,28,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"708","D3",0.1667,28,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"711","G3",0.1512,28,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"712","H3",0.1324,28,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"713","A3",0.157,30,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"714","B3",0.1378,30,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"715","C3",1.5367,30,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"716","D3",0.1505,30,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"719","G3",0.1143,30,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"720","H3",0.1106,30,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"721","A3",0.1579,32,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"722","B3",0.1357,32,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"723","C3",1.5614,32,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"724","D3",0.1513,32,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"727","G3",0.1141,32,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"728","H3",0.1107,32,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"729","A3",0.1613,34,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"730","B3",0.1337,34,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"731","C3",1.5577,34,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"732","D3",0.1512,34,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"735","G3",0.1139,34,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"736","H3",0.1122,34,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"737","A3",0.1561,36,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"738","B3",0.133,36,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"739","C3",1.5723,36,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"740","D3",0.1548,36,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"743","G3",0.1138,36,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"744","H3",0.1115,36,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"745","A3",0.1568,38,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"746","B3",0.1324,38,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"747","C3",1.57,38,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"748","D3",0.2027,38,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"751","G3",0.1134,38,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"752","H3",0.1112,38,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"753","A3",0.1556,40,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"754","B3",0.1304,40,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"755","C3",1.5641,40,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"756","D3",0.3124,40,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"759","G3",0.1136,40,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"760","H3",0.112,40,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"761","A3",0.1542,42,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"762","B3",0.1298,42,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"763","C3",1.571,42,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"764","D3",0.5502,42,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"767","G3",0.1131,42,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"768","H3",0.1114,42,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"769","A3",0.1516,44,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"770","B3",0.1274,44,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"771","C3",1.5758,44,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"772","D3",0.685,44,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"775","G3",0.113,44,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"776","H3",0.111,44,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"777","A3",0.1487,46,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"778","B3",0.1264,46,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"779","C3",1.5793,46,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"780","D3",1.2438,46,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"783","G3",0.1127,46,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"784","H3",0.1104,46,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"785","A3",0.1468,48,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"786","B3",0.1255,48,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"787","C3",1.5888,48,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"788","D3",1.1528,48,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"791","G3",0.113,48,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"792","H3",0.1107,48,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"793","A3",0.1454,50,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"794","B3",0.1242,50,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"795","C3",1.6094,50,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"796","D3",1.4005,50,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"799","G3",0.1125,50,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"800","H3",0.111,50,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"801","A3",0.144,52,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"802","B3",0.1242,52,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"803","C3",1.615,52,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"804","D3",1.4546,52,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"807","G3",0.1127,52,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"808","H3",0.111,52,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"809","A3",0.143,54,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"810","B3",0.1232,54,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"811","C3",1.6236,54,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"812","D3",1.516,54,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"815","G3",0.1123,54,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"816","H3",0.1109,54,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"817","A3",0.1409,56,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"818","B3",0.1223,56,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"819","C3",1.6112,56,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"820","D3",1.5173,56,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"823","G3",0.1118,56,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"824","H3",0.1104,56,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"825","A3",0.1397,58,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"826","B3",0.1219,58,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"827","C3",1.5334,58,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"828","D3",1.454,58,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"831","G3",0.1117,58,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"832","H3",0.1101,58,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"833","A3",0.1386,60,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"834","B3",0.1213,60,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"835","C3",1.4344,60,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"836","D3",1.2328,60,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"839","G3",0.1117,60,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"840","H3",0.1102,60,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"841","A3",0.1361,62,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"842","B3",0.1203,62,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"843","C3",1.4326,62,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"844","D3",1.4042,62,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"847","G3",0.1113,62,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"848","H3",0.1107,62,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"849","A3",0.1352,64,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"850","B3",0.1199,64,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"851","C3",1.3546,64,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"852","D3",1.5136,64,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"855","G3",0.1111,64,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"856","H3",0.1104,64,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"857","A3",0.135,66,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"858","B3",0.1198,66,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"859","C3",1.1985,66,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"860","D3",1.4766,66,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"863","G3",0.1114,66,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"864","H3",0.1103,66,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"865","A3",0.1336,68,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"866","B3",0.1189,68,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"867","C3",1.6401,68,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"868","D3",1.5341,68,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"871","G3",0.1117,68,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"872","H3",0.11,68,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"873","A3",0.1334,70,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"874","B3",0.1184,70,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"875","C3",1.4925,70,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"876","D3",1.5347,70,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"879","G3",0.1112,70,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"880","H3",0.1099,70,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"881","A3",0.1403,72,1,"1-A3","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","YPD",3
+"882","B3",0.1183,72,1,"1-B3","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","YPD",3
+"883","C3",1.4948,72,1,"1-C3","Y7039 x YHL033C","Liquid","Growth Medium","RT","YPD",3
+"884","D3",1.5557,72,1,"1-D3","Y7039 x YHL033C","Dried","Growth Medium","RT","YPD",3
+"887","G3",0.1114,72,1,"1-G3","YPD-Blank","Liquid","No","RT","YPD",3
+"888","H3",0.11,72,1,"1-H3","YPD-Blank","Liquid","Growth Medium","RT","YPD",3
+"889","A4",0.1339,0,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"890","B4",0.126,0,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"891","C4",0.1269,0,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"892","D4",0.1219,0,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"893","E4",0.1217,0,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"894","F4",0.124,0,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"895","G4",0.1283,0,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"896","H4",0.1294,0,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"897","A4",0.1407,2,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"898","B4",0.1337,2,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"899","C4",0.1349,2,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"900","D4",0.1362,2,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"901","E4",0.1265,2,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"902","F4",0.1325,2,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"903","G4",0.1333,2,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"904","H4",0.1401,2,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"905","A4",0.1625,4,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"906","B4",0.1483,4,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"907","C4",0.148,4,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"908","D4",0.1559,4,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"909","E4",0.1365,4,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"910","F4",0.1469,4,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"911","G4",0.1438,4,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"912","H4",0.157,4,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"913","A4",0.1874,6,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"914","B4",0.1659,6,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"915","C4",0.165,6,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"916","D4",0.1677,6,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"917","E4",0.1476,6,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"918","F4",0.1592,6,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"919","G4",0.1621,6,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"920","H4",0.1672,6,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"921","A4",0.2025,8,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"922","B4",0.1842,8,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"923","C4",0.1883,8,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"924","D4",0.1661,8,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"925","E4",0.1542,8,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"926","F4",0.1592,8,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"927","G4",0.1819,8,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"928","H4",0.1688,8,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"929","A4",0.1933,10,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"930","B4",0.1865,10,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"931","C4",0.1973,10,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"932","D4",0.1521,10,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"933","E4",0.1457,10,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"934","F4",0.1539,10,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"935","G4",0.1797,10,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"936","H4",0.163,10,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"937","A4",0.1879,12,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"938","B4",0.1897,12,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"939","C4",0.2553,12,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"940","D4",0.1535,12,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"941","E4",0.1554,12,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"942","F4",0.1617,12,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"943","G4",0.2306,12,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"944","H4",0.1711,12,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"945","A4",0.1892,14,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"946","B4",0.1789,14,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"947","C4",0.3584,14,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"948","D4",0.148,14,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"949","E4",0.154,14,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"950","F4",0.1535,14,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"951","G4",0.3164,14,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"952","H4",0.229,14,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"953","A4",0.195,16,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"954","B4",0.177,16,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"955","C4",0.6608,16,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"956","D4",0.1587,16,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"957","E4",0.1566,16,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"958","F4",0.1644,16,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"959","G4",0.5809,16,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"960","H4",0.3213,16,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"961","A4",0.1951,18,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"962","B4",0.1704,18,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"963","C4",0.8971,18,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"964","D4",0.1506,18,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"965","E4",0.146,18,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"966","F4",0.1542,18,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"967","G4",0.7015,18,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"968","H4",0.6471,18,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"969","A4",0.209,20,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"970","B4",0.1661,20,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"971","C4",1.5276,20,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"972","D4",0.1564,20,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"973","E4",0.1487,20,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"974","F4",0.1616,20,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"975","G4",1.5718,20,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"976","H4",0.979,20,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"977","A4",0.2023,22,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"978","B4",0.1615,22,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"979","C4",1.5691,22,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"980","D4",0.1515,22,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"981","E4",0.1456,22,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"982","F4",0.1511,22,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"983","G4",1.5834,22,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"984","H4",1.0275,22,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"985","A4",0.1935,24,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"986","B4",0.1613,24,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"987","C4",1.6327,24,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"988","D4",0.1496,24,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"989","E4",0.1427,24,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"990","F4",0.1484,24,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"991","G4",1.6614,24,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"992","H4",1.1203,24,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"993","A4",0.1851,26,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"994","B4",0.1571,26,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"995","C4",1.6645,26,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"996","D4",0.1469,26,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"997","E4",0.1405,26,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"998","F4",0.1484,26,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"999","G4",1.6522,26,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1000","H4",1.2679,26,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1001","A4",0.1756,28,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1002","B4",0.1809,28,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1003","C4",1.6703,28,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1004","D4",0.1687,28,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1005","E4",0.1618,28,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1006","F4",0.1758,28,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1007","G4",1.6964,28,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1008","H4",1.1285,28,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1009","A4",0.1796,30,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1010","B4",0.156,30,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1011","C4",1.6501,30,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1012","D4",0.1465,30,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1013","E4",0.1404,30,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1014","F4",0.151,30,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1015","G4",1.6761,30,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1016","H4",1.1405,30,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1017","A4",0.1817,32,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1018","B4",0.1539,32,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1019","C4",1.6427,32,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1020","D4",0.1477,32,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1021","E4",0.1426,32,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1022","F4",0.1495,32,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1023","G4",1.6458,32,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1024","H4",1.3054,32,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1025","A4",0.1805,34,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1026","B4",0.1525,34,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1027","C4",1.6331,34,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1028","D4",0.1418,34,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1029","E4",0.1375,34,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1030","F4",0.1431,34,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1031","G4",1.6647,34,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1032","H4",1.4269,34,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1033","A4",0.1755,36,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1034","B4",0.1486,36,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1035","C4",1.6103,36,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1036","D4",0.1441,36,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1037","E4",0.1368,36,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1038","F4",0.1457,36,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1039","G4",1.6582,36,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1040","H4",1.5528,36,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1041","A4",0.1705,38,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1042","B4",0.1487,38,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1043","C4",1.5956,38,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1044","D4",0.1411,38,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1045","E4",0.1345,38,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1046","F4",0.1434,38,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1047","G4",1.5943,38,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1048","H4",1.5528,38,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1049","A4",0.1748,40,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1050","B4",0.1475,40,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1051","C4",1.56,40,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1052","D4",0.1429,40,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1053","E4",0.1382,40,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1054","F4",0.1436,40,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1055","G4",1.5212,40,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1056","H4",1.5724,40,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1057","A4",0.1721,42,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1058","B4",0.1497,42,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1059","C4",1.5644,42,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1060","D4",0.1438,42,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1061","E4",0.1374,42,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1062","F4",0.1425,42,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1063","G4",1.4618,42,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1064","H4",1.0251,42,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1065","A4",0.1641,44,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1066","B4",0.1443,44,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1067","C4",1.4688,44,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1068","D4",0.1401,44,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1069","E4",0.135,44,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1070","F4",0.1414,44,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1071","G4",1.4701,44,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1072","H4",1.3716,44,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1073","A4",0.1637,46,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1074","B4",0.1427,46,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1075","C4",1.4224,46,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1076","D4",0.1435,46,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1077","E4",0.1352,46,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1078","F4",0.141,46,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1079","G4",1.5761,46,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1080","H4",1.1706,46,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1081","A4",0.1613,48,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1082","B4",0.1414,48,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1083","C4",1.5219,48,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1084","D4",0.1532,48,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1085","E4",0.1344,48,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1086","F4",0.1386,48,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1087","G4",1.6131,48,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1088","H4",1.3502,48,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1089","A4",0.1539,50,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1090","B4",0.1437,50,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1091","C4",1.4359,50,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1092","D4",0.2837,50,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1093","E4",0.1332,50,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1094","F4",0.1387,50,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1095","G4",1.5999,50,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1096","H4",1.4135,50,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1097","A4",0.1532,52,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1098","B4",0.1405,52,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1099","C4",1.5826,52,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1100","D4",0.3454,52,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1101","E4",0.1303,52,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1102","F4",0.1355,52,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1103","G4",1.7247,52,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1104","H4",1.0078,52,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1105","A4",0.1534,54,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1106","B4",0.1434,54,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1107","C4",1.6996,54,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1108","D4",0.773,54,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1109","E4",0.1312,54,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1110","F4",0.1364,54,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1111","G4",1.7626,54,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1112","H4",1.5637,54,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1113","A4",0.1493,56,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1114","B4",0.1392,56,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1115","C4",1.8105,56,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1116","D4",0.6723,56,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1117","E4",0.1292,56,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1118","F4",0.1306,56,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1119","G4",1.8501,56,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1120","H4",1.1293,56,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1121","A4",0.1471,58,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1122","B4",0.136,58,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1123","C4",1.7914,58,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1124","D4",1.4262,58,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1125","E4",0.1282,58,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1126","F4",0.1327,58,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1127","G4",1.7672,58,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1128","H4",1.4221,58,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1129","A4",0.1498,60,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1130","B4",0.1355,60,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1131","C4",1.8207,60,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1132","D4",1.6525,60,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1133","E4",0.1291,60,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1134","F4",0.1341,60,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1135","G4",1.8802,60,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1136","H4",1.3364,60,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1137","A4",0.1469,62,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1138","B4",0.1339,62,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1139","C4",1.8461,62,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1140","D4",1.7041,62,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1141","E4",0.1288,62,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1142","F4",0.1311,62,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1143","G4",1.9052,62,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1144","H4",1.437,62,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1145","A4",0.1495,64,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1146","B4",0.1346,64,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1147","C4",1.8277,64,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1148","D4",1.7827,64,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1149","E4",0.1282,64,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1150","F4",0.1322,64,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1151","G4",1.8921,64,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1152","H4",1.4274,64,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1153","A4",0.1463,66,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1154","B4",0.1333,66,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1155","C4",1.8265,66,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1156","D4",1.74,66,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1157","E4",0.1283,66,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1158","F4",0.1325,66,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1159","G4",1.8689,66,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1160","H4",1.4333,66,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1161","A4",0.1451,68,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1162","B4",0.1308,68,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1163","C4",1.8897,68,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1164","D4",1.5778,68,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1165","E4",0.128,68,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1166","F4",0.1294,68,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1167","G4",1.7198,68,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1168","H4",1.4505,68,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1169","A4",0.1459,70,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1170","B4",0.1308,70,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1171","C4",1.8168,70,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1172","D4",1.1668,70,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1173","E4",0.1267,70,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1174","F4",0.1288,70,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1175","G4",1.8775,70,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1176","H4",1.5095,70,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1177","A4",0.1456,72,1,"1-A4","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",1
+"1178","B4",0.1324,72,1,"1-B4","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",1
+"1179","C4",1.8206,72,1,"1-C4","Y7039 x YHL033C","Liquid","No","RT","YPD",1
+"1180","D4",1.5545,72,1,"1-D4","Y7039 x YHL033C","Dried","No","RT","YPD",1
+"1181","E4",0.1264,72,1,"1-E4","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",1
+"1182","F4",0.1309,72,1,"1-F4","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",1
+"1183","G4",1.7999,72,1,"1-G4","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",1
+"1184","H4",1.5222,72,1,"1-H4","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",1
+"1185","A5",0.1359,0,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1186","B5",0.1231,0,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1187","C5",0.1328,0,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1188","D5",0.1254,0,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1189","E5",0.1255,0,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1190","F5",0.1325,0,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1191","G5",0.1242,0,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1192","H5",0.1259,0,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1193","A5",0.139,2,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1194","B5",0.1325,2,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1195","C5",0.144,2,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1196","D5",0.1365,2,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1197","E5",0.1291,2,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1198","F5",0.1449,2,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1199","G5",0.1311,2,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1200","H5",0.1316,2,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1201","A5",0.1541,4,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1202","B5",0.1505,4,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1203","C5",0.164,4,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1204","D5",0.1511,4,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1205","E5",0.138,4,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1206","F5",0.1678,4,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1207","G5",0.1417,4,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1208","H5",0.1411,4,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1209","A5",0.1725,6,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1210","B5",0.1717,6,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1211","C5",0.1905,6,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1212","D5",0.1655,6,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1213","E5",0.1494,6,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1214","F5",0.1815,6,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1215","G5",0.1568,6,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1216","H5",0.1497,6,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1217","A5",0.1889,8,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1218","B5",0.1779,8,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1219","C5",0.2233,8,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1220","D5",0.1756,8,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1221","E5",0.1575,8,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1222","F5",0.1914,8,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1223","G5",0.1825,8,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1224","H5",0.1536,8,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1225","A5",0.1923,10,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1226","B5",0.1637,10,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1227","C5",0.2243,10,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1228","D5",0.1676,10,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1229","E5",0.1533,10,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1230","F5",0.1813,10,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1231","G5",0.1797,10,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1232","H5",0.1536,10,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1233","A5",0.1999,12,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1234","B5",0.1636,12,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1235","C5",0.2883,12,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1236","D5",0.172,12,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1237","E5",0.1599,12,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1238","F5",0.1833,12,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1239","G5",0.2064,12,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1240","H5",0.1631,12,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1241","A5",0.206,14,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1242","B5",0.1569,14,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1243","C5",0.4522,14,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1244","D5",0.1657,14,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1245","E5",0.1562,14,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1246","F5",0.1776,14,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1247","G5",0.4182,14,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1248","H5",0.2193,14,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1249","A5",0.2136,16,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1250","B5",0.1602,16,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1251","C5",0.6184,16,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1252","D5",0.1732,16,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1253","E5",0.1679,16,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1254","F5",0.1866,16,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1255","G5",0.4379,16,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1256","H5",0.355,16,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1257","A5",0.2034,18,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1258","B5",0.1552,18,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1259","C5",1.003,18,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1260","D5",0.1634,18,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1261","E5",0.1542,18,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1262","F5",0.1806,18,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1263","G5",0.9545,18,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1264","H5",0.507,18,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1265","A5",0.216,20,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1266","B5",0.1557,20,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1267","C5",1.3208,20,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1268","D5",0.1773,20,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1269","E5",0.1655,20,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1270","F5",0.181,20,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1271","G5",1.4719,20,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1272","H5",0.8202,20,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1273","A5",0.2099,22,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1274","B5",0.1518,22,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1275","C5",1.5445,22,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1276","D5",0.1646,22,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1277","E5",0.1566,22,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1278","F5",0.1748,22,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1279","G5",1.604,22,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1280","H5",0.9558,22,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1281","A5",0.1901,24,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1282","B5",0.1502,24,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1283","C5",1.4562,24,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1284","D5",0.1619,24,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1285","E5",0.1482,24,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1286","F5",0.1687,24,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1287","G5",1.6062,24,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1288","H5",1.1274,24,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1289","A5",0.1814,26,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1290","B5",0.1491,26,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1291","C5",1.5246,26,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1292","D5",0.1603,26,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1293","E5",0.1463,26,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1294","F5",0.1681,26,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1295","G5",1.6492,26,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1296","H5",1.3619,26,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1297","A5",0.1956,28,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1298","B5",0.1714,28,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1299","C5",1.5958,28,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1300","D5",0.1669,28,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1301","E5",0.1738,28,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1302","F5",0.1819,28,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1303","G5",1.6612,28,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1304","H5",1.1057,28,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1305","A5",0.1835,30,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1306","B5",0.148,30,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1307","C5",1.5785,30,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1308","D5",0.1583,30,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1309","E5",0.1446,30,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1310","F5",0.1632,30,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1311","G5",1.6465,30,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1312","H5",1.2552,30,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1313","A5",0.1778,32,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1314","B5",0.1463,32,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1315","C5",1.6023,32,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1316","D5",0.1596,32,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1317","E5",0.15,32,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1318","F5",0.1663,32,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1319","G5",1.6441,32,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1320","H5",1.2641,32,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1321","A5",0.1766,34,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1322","B5",0.1448,34,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1323","C5",1.5846,34,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1324","D5",0.1546,34,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1325","E5",0.1417,34,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1326","F5",0.1624,34,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1327","G5",1.6507,34,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1328","H5",1.5028,34,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1329","A5",0.178,36,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1330","B5",0.1441,36,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1331","C5",1.541,36,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1332","D5",0.1621,36,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1333","E5",0.1389,36,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1334","F5",0.1595,36,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1335","G5",1.6265,36,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1336","H5",1.411,36,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1337","A5",0.176,38,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1338","B5",0.1431,38,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1339","C5",1.5107,38,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1340","D5",0.1892,38,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1341","E5",0.1447,38,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1342","F5",0.1575,38,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1343","G5",1.634,38,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1344","H5",1.4818,38,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1345","A5",0.1789,40,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1346","B5",0.1433,40,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1347","C5",1.4251,40,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1348","D5",0.2808,40,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1349","E5",0.1421,40,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1350","F5",0.1593,40,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1351","G5",1.6818,40,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1352","H5",1.5171,40,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1353","A5",0.1779,42,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1354","B5",0.1421,42,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1355","C5",1.4336,42,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1356","D5",0.4101,42,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1357","E5",0.1452,42,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1358","F5",0.157,42,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1359","G5",1.6448,42,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1360","H5",1.4049,42,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1361","A5",0.1669,44,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1362","B5",0.1395,44,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1363","C5",1.3624,44,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1364","D5",0.7868,44,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1365","E5",0.1414,44,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1366","F5",0.1528,44,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1367","G5",1.5836,44,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1368","H5",1.0088,44,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1369","A5",0.1702,46,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1370","B5",0.1379,46,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1371","C5",1.4159,46,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1372","D5",1.0387,46,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1373","E5",0.1385,46,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1374","F5",0.1537,46,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1375","G5",1.6028,46,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1376","H5",1.1454,46,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1377","A5",0.1699,48,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1378","B5",0.1378,48,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1379","C5",1.3891,48,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1380","D5",1.3734,48,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1381","E5",0.1395,48,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1382","F5",0.1503,48,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1383","G5",1.6906,48,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1384","H5",1.3489,48,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1385","A5",0.1644,50,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1386","B5",0.1353,50,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1387","C5",1.3713,50,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1388","D5",1.5017,50,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1389","E5",0.1387,50,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1390","F5",0.1497,50,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1391","G5",1.6564,50,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1392","H5",1.5462,50,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1393","A5",0.1599,52,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1394","B5",0.1354,52,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1395","C5",1.2873,52,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1396","D5",1.6311,52,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1397","E5",0.1349,52,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1398","F5",0.144,52,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1399","G5",1.6357,52,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1400","H5",1.3742,52,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1401","A5",0.1549,54,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1402","B5",0.1346,54,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1403","C5",1.3344,54,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1404","D5",1.7045,54,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1405","E5",0.1352,54,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1406","F5",0.1439,54,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1407","G5",1.5151,54,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1408","H5",1.462,54,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1409","A5",0.1544,56,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1410","B5",0.1333,56,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1411","C5",1.393,56,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1412","D5",1.6385,56,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1413","E5",0.1322,56,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1414","F5",0.1425,56,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1415","G5",1.7637,56,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1416","H5",1.3976,56,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1417","A5",0.1508,58,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1418","B5",0.1331,58,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1419","C5",1.5438,58,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1420","D5",1.7032,58,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1421","E5",0.131,58,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1422","F5",0.1417,58,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1423","G5",1.7805,58,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1424","H5",1.4062,58,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1425","A5",0.1493,60,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1426","B5",0.133,60,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1427","C5",1.6563,60,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1428","D5",1.6856,60,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1429","E5",0.1315,60,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1430","F5",0.141,60,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1431","G5",1.8231,60,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1432","H5",1.5356,60,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1433","A5",0.1456,62,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1434","B5",0.1311,62,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1435","C5",1.6662,62,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1436","D5",1.698,62,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1437","E5",0.1291,62,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1438","F5",0.1396,62,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1439","G5",1.8666,62,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1440","H5",1.5123,62,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1441","A5",0.1436,64,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1442","B5",0.129,64,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1443","C5",1.7382,64,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1444","D5",1.6376,64,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1445","E5",0.1294,64,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1446","F5",0.139,64,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1447","G5",1.8419,64,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1448","H5",1.4383,64,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1449","A5",0.1431,66,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1450","B5",0.1309,66,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1451","C5",1.7181,66,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1452","D5",1.6314,66,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1453","E5",0.1284,66,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1454","F5",0.1371,66,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1455","G5",1.7899,66,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1456","H5",1.5141,66,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1457","A5",0.1393,68,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1458","B5",0.1289,68,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1459","C5",1.7353,68,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1460","D5",1.6806,68,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1461","E5",0.1282,68,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1462","F5",0.1369,68,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1463","G5",1.7763,68,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1464","H5",1.4567,68,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1465","A5",0.1376,70,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1466","B5",0.1292,70,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1467","C5",1.717,70,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1468","D5",1.7043,70,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1469","E5",0.1273,70,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1470","F5",0.1351,70,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1471","G5",1.8589,70,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1472","H5",1.4151,70,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1473","A5",0.1378,72,1,"1-A5","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",2
+"1474","B5",0.1293,72,1,"1-B5","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",2
+"1475","C5",1.5889,72,1,"1-C5","Y7039 x YHL033C","Liquid","No","RT","YPD",2
+"1476","D5",1.69,72,1,"1-D5","Y7039 x YHL033C","Dried","No","RT","YPD",2
+"1477","E5",0.1278,72,1,"1-E5","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",2
+"1478","F5",0.1346,72,1,"1-F5","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",2
+"1479","G5",1.8546,72,1,"1-G5","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",2
+"1480","H5",1.3736,72,1,"1-H5","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",2
+"1481","A6",0.1366,0,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1482","B6",0.1245,0,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1483","C6",0.1319,0,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1484","D6",0.1265,0,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1485","E6",0.123,0,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1486","F6",0.1363,0,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1487","G6",0.1274,0,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1488","H6",0.1289,0,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1489","A6",0.1409,2,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1490","B6",0.1324,2,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1491","C6",0.1434,2,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1492","D6",0.1344,2,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1493","E6",0.1307,2,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1494","F6",0.1429,2,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1495","G6",0.1349,2,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1496","H6",0.1346,2,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1497","A6",0.1587,4,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1498","B6",0.1463,4,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1499","C6",0.1581,4,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1500","D6",0.1452,4,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1501","E6",0.1441,4,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1502","F6",0.1516,4,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1503","G6",0.145,4,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1504","H6",0.1446,4,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1505","A6",0.1761,6,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1506","B6",0.165,6,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1507","C6",0.1771,6,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1508","D6",0.1544,6,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1509","E6",0.1581,6,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1510","F6",0.1796,6,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1511","G6",0.1634,6,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1512","H6",0.152,6,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1513","A6",0.1848,8,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1514","B6",0.1826,8,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1515","C6",0.2065,8,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1516","D6",0.1677,8,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1517","E6",0.1691,8,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1518","F6",0.1758,8,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1519","G6",0.1945,8,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1520","H6",0.1555,8,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1521","A6",0.1824,10,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1522","B6",0.1907,10,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1523","C6",0.2256,10,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1524","D6",0.1627,10,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1525","E6",0.1624,10,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1526","F6",0.1775,10,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1527","G6",0.1955,10,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1528","H6",0.1521,10,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1529","A6",0.1979,12,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1530","B6",0.1896,12,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1531","C6",0.2726,12,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1532","D6",0.1677,12,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1533","E6",0.1785,12,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1534","F6",0.1898,12,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1535","G6",0.2459,12,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1536","H6",0.1644,12,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1537","A6",0.1972,14,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1538","B6",0.1933,14,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1539","C6",0.5769,14,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1540","D6",0.1623,14,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1541","E6",0.1752,14,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1542","F6",0.2354,14,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1543","G6",0.3718,14,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1544","H6",0.2356,14,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1545","A6",0.1991,16,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1546","B6",0.1892,16,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1547","C6",0.8724,16,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1548","D6",0.1684,16,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1549","E6",0.1779,16,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1550","F6",0.3229,16,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1551","G6",0.8156,16,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1552","H6",0.3201,16,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1553","A6",0.228,18,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1554","B6",0.1764,18,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1555","C6",1.1267,18,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1556","D6",0.1606,18,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1557","E6",0.1673,18,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1558","F6",0.3952,18,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1559","G6",1.1046,18,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1560","H6",0.5447,18,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1561","A6",0.3275,20,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1562","B6",0.1755,20,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1563","C6",1.4068,20,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1564","D6",0.1667,20,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1565","E6",0.1687,20,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1566","F6",0.497,20,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1567","G6",1.4836,20,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1568","H6",0.9234,20,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1569","A6",0.5517,22,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1570","B6",0.166,22,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1571","C6",1.5149,22,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1572","D6",0.1625,22,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1573","E6",0.1585,22,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1574","F6",0.5943,22,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1575","G6",1.5418,22,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1576","H6",1.0775,22,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1577","A6",0.8134,24,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1578","B6",0.1552,24,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1579","C6",1.6111,24,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1580","D6",0.1577,24,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1581","E6",0.1553,24,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1582","F6",0.6807,24,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1583","G6",1.5711,24,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1584","H6",1.6684,24,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1585","A6",1.0012,26,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1586","B6",0.1527,26,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1587","C6",1.5547,26,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1588","D6",0.1573,26,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1589","E6",0.1535,26,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1590","F6",0.767,26,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1591","G6",1.5906,26,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1592","H6",1.6195,26,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1593","A6",1.0885,28,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1594","B6",0.1714,28,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1595","C6",1.5594,28,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1596","D6",0.1805,28,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1597","E6",0.1712,28,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1598","F6",0.8274,28,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1599","G6",1.6251,28,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1600","H6",1.7093,28,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1601","A6",1.1488,30,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1602","B6",0.1534,30,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1603","C6",1.5788,30,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1604","D6",0.16,30,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1605","E6",0.1537,30,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1606","F6",0.8526,30,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1607","G6",1.6204,30,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1608","H6",1.6304,30,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1609","A6",1.1707,32,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1610","B6",0.1542,32,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1611","C6",1.5788,32,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1612","D6",0.1693,32,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1613","E6",0.153,32,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1614","F6",0.9268,32,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1615","G6",1.6545,32,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1616","H6",1.7435,32,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1617","A6",1.2003,34,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1618","B6",0.1466,34,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1619","C6",1.5773,34,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1620","D6",0.1603,34,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1621","E6",0.1485,34,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1622","F6",0.9812,34,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1623","G6",1.6607,34,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1624","H6",1.6623,34,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1625","A6",1.2226,36,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1626","B6",0.1439,36,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1627","C6",1.5051,36,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1628","D6",0.3298,36,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1629","E6",0.147,36,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1630","F6",1.021,36,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1631","G6",1.6561,36,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1632","H6",1.6808,36,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1633","A6",1.2474,38,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1634","B6",0.1448,38,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1635","C6",1.2864,38,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1636","D6",0.6436,38,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1637","E6",0.1504,38,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1638","F6",1.0195,38,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1639","G6",1.6794,38,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1640","H6",1.688,38,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1641","A6",1.2673,40,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1642","B6",0.1444,40,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1643","C6",1.3089,40,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1644","D6",0.8296,40,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1645","E6",0.1514,40,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1646","F6",1.0196,40,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1647","G6",1.6689,40,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1648","H6",1.8132,40,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1649","A6",1.2868,42,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1650","B6",0.1456,42,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1651","C6",1.2651,42,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1652","D6",1.1278,42,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1653","E6",0.15,42,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1654","F6",1.0117,42,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1655","G6",1.6671,42,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1656","H6",1.698,42,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1657","A6",1.2948,44,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1658","B6",0.1422,44,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1659","C6",1.3857,44,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1660","D6",1.457,44,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1661","E6",0.1475,44,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1662","F6",0.9618,44,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1663","G6",1.7041,44,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1664","H6",1.6676,44,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1665","A6",1.2258,46,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1666","B6",0.141,46,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1667","C6",1.2998,46,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1668","D6",1.4096,46,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1669","E6",0.1458,46,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1670","F6",0.9506,46,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1671","G6",1.6047,46,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1672","H6",1.8654,46,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1673","A6",1.1155,48,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1674","B6",0.1384,48,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1675","C6",1.4025,48,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1676","D6",1.6185,48,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1677","E6",0.1461,48,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1678","F6",0.9281,48,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1679","G6",1.55,48,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1680","H6",1.8136,48,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1681","A6",1.0371,50,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1682","B6",0.1366,50,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1683","C6",1.4376,50,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1684","D6",1.6137,50,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1685","E6",0.1435,50,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1686","F6",0.9228,50,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1687","G6",1.5816,50,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1688","H6",1.7637,50,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1689","A6",1.0544,52,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1690","B6",0.1341,52,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1691","C6",1.2702,52,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1692","D6",1.5487,52,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1693","E6",0.1422,52,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1694","F6",0.8972,52,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1695","G6",1.6865,52,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1696","H6",1.673,52,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1697","A6",1.0763,54,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1698","B6",0.1349,54,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1699","C6",1.543,54,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1700","D6",1.5932,54,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1701","E6",0.1413,54,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1702","F6",0.9012,54,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1703","G6",1.7157,54,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1704","H6",1.6965,54,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1705","A6",1.0777,56,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1706","B6",0.1322,56,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1707","C6",1.4654,56,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1708","D6",1.6623,56,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1709","E6",0.1366,56,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1710","F6",0.9048,56,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1711","G6",1.8011,56,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1712","H6",1.8091,56,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1713","A6",0.9562,58,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1714","B6",0.1322,58,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1715","C6",1.5346,58,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1716","D6",1.6846,58,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1717","E6",0.1366,58,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1718","F6",0.9163,58,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1719","G6",1.8245,58,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1720","H6",1.8517,58,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1721","A6",0.7977,60,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1722","B6",0.1345,60,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1723","C6",1.4848,60,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1724","D6",1.6957,60,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1725","E6",0.1386,60,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1726","F6",0.9467,60,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1727","G6",1.8394,60,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1728","H6",1.8163,60,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1729","A6",0.8316,62,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1730","B6",0.1326,62,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1731","C6",1.4054,62,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1732","D6",1.7048,62,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1733","E6",0.1361,62,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1734","F6",0.9159,62,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1735","G6",1.7933,62,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1736","H6",1.7885,62,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1737","A6",0.8189,64,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1738","B6",0.1302,64,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1739","C6",1.2132,64,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1740","D6",1.737,64,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1741","E6",0.1337,64,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1742","F6",0.9329,64,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1743","G6",1.8155,64,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1744","H6",1.7572,64,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1745","A6",0.7954,66,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1746","B6",0.1294,66,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1747","C6",1.5072,66,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1748","D6",1.5432,66,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1749","E6",0.1347,66,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1750","F6",0.9346,66,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1751","G6",1.8432,66,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1752","H6",1.6346,66,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1753","A6",0.6631,68,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1754","B6",0.1278,68,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1755","C6",1.4486,68,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1756","D6",1.602,68,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1757","E6",0.1327,68,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1758","F6",0.9229,68,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1759","G6",1.8349,68,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1760","H6",1.7073,68,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1761","A6",0.6288,70,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1762","B6",0.13,70,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1763","C6",1.5849,70,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1764","D6",1.6078,70,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1765","E6",0.1319,70,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1766","F6",0.9274,70,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1767","G6",1.8808,70,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1768","H6",1.7069,70,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1769","A6",0.6194,72,1,"1-A6","Y7039 x YHL033C","Liquid","No","Heat Shock","YPD",3
+"1770","B6",0.1328,72,1,"1-B6","Y7039 x YHL033C","Dried","No","Heat Shock","YPD",3
+"1771","C6",1.5009,72,1,"1-C6","Y7039 x YHL033C","Liquid","No","RT","YPD",3
+"1772","D6",1.686,72,1,"1-D6","Y7039 x YHL033C","Dried","No","RT","YPD",3
+"1773","E6",0.1314,72,1,"1-E6","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","YPD",3
+"1774","F6",0.9164,72,1,"1-F6","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","YPD",3
+"1775","G6",1.8299,72,1,"1-G6","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","YPD",3
+"1776","H6",1.7458,72,1,"1-H6","Y7039 x YHL033C","Dried","Sporulation Medium","RT","YPD",3
+"1777","A7",0.1035,0,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1778","B7",0.1075,0,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1779","C7",0.1144,0,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1780","D7",0.1101,0,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1783","G7",0.0984,0,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1784","H7",0.0974,0,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1785","A7",0.1182,2,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1786","B7",0.1098,2,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1787","C7",0.1167,2,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1788","D7",0.1103,2,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1791","G7",0.099,2,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1792","H7",0.0971,2,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1793","A7",0.1266,4,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1794","B7",0.1105,4,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1795","C7",0.119,4,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1796","D7",0.1108,4,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1799","G7",0.0986,4,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1800","H7",0.0971,4,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1801","A7",0.1264,6,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1802","B7",0.1108,6,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1803","C7",0.1218,6,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1804","D7",0.1115,6,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1807","G7",0.0987,6,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1808","H7",0.0969,6,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1809","A7",0.1243,8,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1810","B7",0.1114,8,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1811","C7",0.1253,8,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1812","D7",0.1118,8,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1815","G7",0.099,8,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1816","H7",0.0968,8,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1817","A7",0.1225,10,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1818","B7",0.1114,10,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1819","C7",0.1289,10,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1820","D7",0.1122,10,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1823","G7",0.0986,10,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1824","H7",0.0968,10,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1825","A7",0.1207,12,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1826","B7",0.1116,12,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1827","C7",0.1326,12,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1828","D7",0.1125,12,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1831","G7",0.0987,12,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1832","H7",0.0986,12,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1833","A7",0.1205,14,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1834","B7",0.1119,14,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1835","C7",0.1354,14,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1836","D7",0.1129,14,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1839","G7",0.0984,14,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1840","H7",0.099,14,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1841","A7",0.1186,16,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1842","B7",0.112,16,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1843","C7",0.1377,16,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1844","D7",0.1132,16,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1847","G7",0.0982,16,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1848","H7",0.0995,16,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1849","A7",0.1186,18,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1850","B7",0.1128,18,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1851","C7",0.1393,18,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1852","D7",0.1132,18,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1855","G7",0.0978,18,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1856","H7",0.099,18,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1857","A7",0.1183,20,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1858","B7",0.114,20,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1859","C7",0.1403,20,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1860","D7",0.1136,20,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1863","G7",0.0975,20,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1864","H7",0.0998,20,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1865","A7",0.1178,22,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1866","B7",0.1148,22,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1867","C7",0.1436,22,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1868","D7",0.1136,22,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1871","G7",0.0972,22,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1872","H7",0.0993,22,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1873","A7",0.1174,24,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1874","B7",0.1163,24,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1875","C7",0.1478,24,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1876","D7",0.1139,24,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1879","G7",0.0973,24,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1880","H7",0.0989,24,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1881","A7",0.1168,26,1,"1-A7","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1882","B7",0.1164,26,1,"1-B7","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",1
+"1883","C7",0.1588,26,1,"1-C7","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"1884","D7",0.1138,26,1,"1-D7","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",1
+"1887","G7",0.0967,26,1,"1-G7","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",1
+"1888","H7",0.0987,26,1,"1-H7","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",1
+"2073","A8",0.1015,0,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2074","B8",0.1102,0,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2075","C8",0.1103,0,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2076","D8",0.1085,0,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2079","G8",0.1001,0,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2080","H8",0.1001,0,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2081","A8",0.1159,2,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2082","B8",0.1108,2,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2083","C8",0.1146,2,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2084","D8",0.1089,2,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2087","G8",0.1,2,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2088","H8",0.0988,2,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2089","A8",0.128,4,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2090","B8",0.1108,4,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2091","C8",0.1179,4,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2092","D8",0.1097,4,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2095","G8",0.0999,4,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2096","H8",0.0993,4,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2097","A8",0.1261,6,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2098","B8",0.111,6,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2099","C8",0.1227,6,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2100","D8",0.1106,6,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2103","G8",0.1004,6,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2104","H8",0.0992,6,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2105","A8",0.1233,8,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2106","B8",0.111,8,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2107","C8",0.1285,8,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2108","D8",0.111,8,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2111","G8",0.1002,8,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2112","H8",0.0985,8,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2113","A8",0.121,10,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2114","B8",0.111,10,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2115","C8",0.1341,10,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2116","D8",0.1112,10,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2119","G8",0.0998,10,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2120","H8",0.0987,10,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2121","A8",0.12,12,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2122","B8",0.111,12,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2123","C8",0.1388,12,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2124","D8",0.1116,12,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2127","G8",0.0997,12,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2128","H8",0.0985,12,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2129","A8",0.1199,14,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2130","B8",0.1109,14,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2131","C8",0.1417,14,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2132","D8",0.1116,14,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2135","G8",0.0995,14,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2136","H8",0.0987,14,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2137","A8",0.1185,16,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2138","B8",0.1108,16,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2139","C8",0.1451,16,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2140","D8",0.1122,16,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2143","G8",0.0994,16,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2144","H8",0.0988,16,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2145","A8",0.1177,18,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2146","B8",0.1109,18,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2147","C8",0.1458,18,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2148","D8",0.1116,18,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2151","G8",0.0989,18,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2152","H8",0.0982,18,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2153","A8",0.1169,20,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2154","B8",0.1108,20,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2155","C8",0.1478,20,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2156","D8",0.112,20,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2159","G8",0.0991,20,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2160","H8",0.0984,20,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2161","A8",0.1165,22,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2162","B8",0.1103,22,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2163","C8",0.1535,22,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2164","D8",0.1124,22,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2167","G8",0.0987,22,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2168","H8",0.0983,22,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2169","A8",0.1161,24,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2170","B8",0.1105,24,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2171","C8",0.1624,24,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2172","D8",0.1127,24,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2175","G8",0.0985,24,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2176","H8",0.0981,24,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2177","A8",0.1154,26,1,"1-A8","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2178","B8",0.1105,26,1,"1-B8","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",2
+"2179","C8",0.1849,26,1,"1-C8","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2180","D8",0.1127,26,1,"1-D8","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",2
+"2183","G8",0.0984,26,1,"1-G8","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",2
+"2184","H8",0.0982,26,1,"1-H8","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",2
+"2369","A9",0.1072,0,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2370","B9",0.11,0,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2371","C9",0.1182,0,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2372","D9",0.1072,0,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2375","G9",0.102,0,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2376","H9",0.104,0,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2377","A9",0.1188,2,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2378","B9",0.111,2,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2379","C9",0.1196,2,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2380","D9",0.1089,2,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2383","G9",0.1017,2,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2384","H9",0.1025,2,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2385","A9",0.129,4,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2386","B9",0.1117,4,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2387","C9",0.1226,4,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2388","D9",0.1094,4,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2391","G9",0.1014,4,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2392","H9",0.1029,4,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2393","A9",0.1277,6,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2394","B9",0.1119,6,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2395","C9",0.1267,6,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2396","D9",0.1098,6,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2399","G9",0.1014,6,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2400","H9",0.1025,6,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2401","A9",0.1267,8,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2402","B9",0.112,8,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2403","C9",0.1315,8,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2404","D9",0.1101,8,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2407","G9",0.1014,8,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2408","H9",0.1023,8,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2409","A9",0.1245,10,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2410","B9",0.1119,10,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2411","C9",0.1365,10,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2412","D9",0.1104,10,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2415","G9",0.1013,10,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2416","H9",0.1021,10,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2417","A9",0.1245,12,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2418","B9",0.1121,12,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2419","C9",0.142,12,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2420","D9",0.111,12,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2423","G9",0.1011,12,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2424","H9",0.1023,12,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2425","A9",0.1237,14,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2426","B9",0.1122,14,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2427","C9",0.147,14,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2428","D9",0.1113,14,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2431","G9",0.1007,14,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2432","H9",0.102,14,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2433","A9",0.1228,16,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2434","B9",0.1125,16,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2435","C9",0.1478,16,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2436","D9",0.1117,16,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2439","G9",0.1006,16,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2440","H9",0.1019,16,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2441","A9",0.1219,18,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2442","B9",0.113,18,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2443","C9",0.1484,18,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2444","D9",0.1119,18,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2447","G9",0.1001,18,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2448","H9",0.1017,18,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2449","A9",0.1222,20,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2450","B9",0.1183,20,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2451","C9",0.1498,20,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2452","D9",0.1116,20,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2455","G9",0.0999,20,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2456","H9",0.102,20,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2457","A9",0.1213,22,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2458","B9",0.1411,22,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2459","C9",0.1549,22,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2460","D9",0.1117,22,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2463","G9",0.0997,22,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2464","H9",0.1016,22,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2465","A9",0.1204,24,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2466","B9",0.194,24,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2467","C9",0.1669,24,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2468","D9",0.1121,24,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2471","G9",0.0995,24,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2472","H9",0.1012,24,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2473","A9",0.1203,26,1,"1-A9","Y7039 x YHL033C","Liquid","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2474","B9",0.2175,26,1,"1-B9","Y7039 x YHL033C","Dried","Growth Medium","Heat Shock","SD-HIS-LEU",3
+"2475","C9",0.1924,26,1,"1-C9","Y7039 x YHL033C","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2476","D9",0.1122,26,1,"1-D9","Y7039 x YHL033C","Dried","Growth Medium","RT","SD-HIS-LEU",3
+"2479","G9",0.0996,26,1,"1-G9","SD-HIS-LEU-Blank","Liquid","No","RT","SD-HIS-LEU",3
+"2480","H9",0.101,26,1,"1-H9","SD-HIS-LEU-Blank","Liquid","Growth Medium","RT","SD-HIS-LEU",3
+"2665","A10",0.1067,0,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2666","B10",0.1099,0,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2667","C10",0.1057,0,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2668","D10",0.1121,0,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2669","E10",0.1075,0,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2670","F10",0.1111,0,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2671","G10",0.1146,0,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2672","H10",0.1109,0,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2673","A10",0.1061,2,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2674","B10",0.1116,2,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2675","C10",0.105,2,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2676","D10",0.1152,2,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2677","E10",0.1095,2,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2678","F10",0.1136,2,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2679","G10",0.1166,2,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2680","H10",0.1122,2,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2681","A10",0.1062,4,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2682","B10",0.1127,4,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2683","C10",0.1051,4,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2684","D10",0.1152,4,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2685","E10",0.1106,4,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2686","F10",0.1141,4,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2687","G10",0.1188,4,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2688","H10",0.112,4,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2689","A10",0.1062,6,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2690","B10",0.1124,6,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2691","C10",0.1051,6,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2692","D10",0.1158,6,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2693","E10",0.1115,6,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2694","F10",0.1154,6,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2695","G10",0.1214,6,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2696","H10",0.1121,6,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2697","A10",0.1062,8,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2698","B10",0.1114,8,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2699","C10",0.105,8,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2700","D10",0.1165,8,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2701","E10",0.114,8,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2702","F10",0.1165,8,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2703","G10",0.1242,8,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2704","H10",0.1123,8,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2705","A10",0.1061,10,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2706","B10",0.1106,10,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2707","C10",0.105,10,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2708","D10",0.1165,10,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2709","E10",0.114,10,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2710","F10",0.1177,10,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2711","G10",0.126,10,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2712","H10",0.1123,10,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2713","A10",0.1061,12,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2714","B10",0.1111,12,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2715","C10",0.1049,12,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2716","D10",0.1171,12,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2717","E10",0.1163,12,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2718","F10",0.1184,12,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2719","G10",0.1268,12,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2720","H10",0.1129,12,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2721","A10",0.1061,14,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2722","B10",0.1111,14,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2723","C10",0.105,14,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2724","D10",0.1171,14,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2725","E10",0.1161,14,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2726","F10",0.1188,14,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2727","G10",0.1269,14,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2728","H10",0.1131,14,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2729","A10",0.1061,16,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2730","B10",0.1107,16,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2731","C10",0.105,16,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2732","D10",0.1176,16,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2733","E10",0.1173,16,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2734","F10",0.1194,16,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2735","G10",0.1278,16,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2736","H10",0.1141,16,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2737","A10",0.106,18,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2738","B10",0.1105,18,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2739","C10",0.1049,18,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2740","D10",0.1176,18,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2741","E10",0.1167,18,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2742","F10",0.1198,18,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2743","G10",0.1351,18,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2744","H10",0.1145,18,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2745","A10",0.106,20,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2746","B10",0.1107,20,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2747","C10",0.1051,20,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2748","D10",0.1177,20,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2749","E10",0.1165,20,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2750","F10",0.1198,20,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2751","G10",0.1399,20,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2752","H10",0.117,20,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2753","A10",0.1061,22,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2754","B10",0.1108,22,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2755","C10",0.105,22,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2756","D10",0.1176,22,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2757","E10",0.1161,22,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2758","F10",0.1199,22,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2759","G10",0.1361,22,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2760","H10",0.1193,22,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2761","A10",0.1061,24,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2762","B10",0.111,24,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2763","C10",0.105,24,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2764","D10",0.1178,24,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2765","E10",0.1146,24,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2766","F10",0.1196,24,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2767","G10",0.1394,24,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2768","H10",0.1217,24,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2769","A10",0.106,26,1,"1-A10","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",1
+"2770","B10",0.111,26,1,"1-B10","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",1
+"2771","C10",0.105,26,1,"1-C10","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",1
+"2772","D10",0.1179,26,1,"1-D10","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",1
+"2773","E10",0.1151,26,1,"1-E10","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2774","F10",0.1197,26,1,"1-F10","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",1
+"2775","G10",0.1482,26,1,"1-G10","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",1
+"2776","H10",0.1267,26,1,"1-H10","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",1
+"2961","A11",0.1111,0,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"2962","B11",0.1136,0,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"2963","C11",0.1075,0,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"2964","D11",0.1128,0,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"2965","E11",0.1091,0,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2966","F11",0.1131,0,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2967","G11",0.1158,0,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"2968","H11",0.1128,0,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"2969","A11",0.1089,2,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"2970","B11",0.1142,2,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"2971","C11",0.1071,2,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"2972","D11",0.1134,2,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"2973","E11",0.1105,2,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2974","F11",0.1138,2,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2975","G11",0.117,2,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"2976","H11",0.1137,2,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"2977","A11",0.1085,4,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"2978","B11",0.1148,4,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"2979","C11",0.1071,4,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"2980","D11",0.1135,4,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"2981","E11",0.112,4,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2982","F11",0.1146,4,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2983","G11",0.1191,4,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"2984","H11",0.1146,4,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"2985","A11",0.1077,6,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"2986","B11",0.1155,6,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"2987","C11",0.1071,6,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"2988","D11",0.1131,6,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"2989","E11",0.1148,6,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2990","F11",0.1148,6,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2991","G11",0.1218,6,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"2992","H11",0.1161,6,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"2993","A11",0.1075,8,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"2994","B11",0.1156,8,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"2995","C11",0.107,8,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"2996","D11",0.1132,8,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"2997","E11",0.1176,8,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2998","F11",0.1153,8,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"2999","G11",0.1248,8,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3000","H11",0.1175,8,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3001","A11",0.1075,10,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3002","B11",0.1148,10,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3003","C11",0.107,10,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3004","D11",0.1134,10,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3005","E11",0.1193,10,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3006","F11",0.1155,10,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3007","G11",0.1276,10,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3008","H11",0.1182,10,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3009","A11",0.1075,12,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3010","B11",0.115,12,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3011","C11",0.1069,12,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3012","D11",0.1132,12,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3013","E11",0.1201,12,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3014","F11",0.1164,12,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3015","G11",0.1299,12,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3016","H11",0.1199,12,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3017","A11",0.108,14,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3018","B11",0.1153,14,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3019","C11",0.1069,14,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3020","D11",0.1131,14,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3021","E11",0.1204,14,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3022","F11",0.1168,14,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3023","G11",0.1305,14,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3024","H11",0.1217,14,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3025","A11",0.1084,16,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3026","B11",0.1144,16,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3027","C11",0.1069,16,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3028","D11",0.1129,16,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3029","E11",0.1216,16,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3030","F11",0.1172,16,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3031","G11",0.132,16,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3032","H11",0.1251,16,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3033","A11",0.1084,18,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3034","B11",0.1146,18,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3035","C11",0.1069,18,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3036","D11",0.1129,18,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3037","E11",0.1213,18,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3038","F11",0.1177,18,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3039","G11",0.1317,18,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3040","H11",0.1244,18,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3041","A11",0.1078,20,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3042","B11",0.1143,20,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3043","C11",0.107,20,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3044","D11",0.112,20,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3045","E11",0.1216,20,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3046","F11",0.1182,20,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3047","G11",0.1318,20,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3048","H11",0.1312,20,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3049","A11",0.1075,22,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3050","B11",0.1147,22,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3051","C11",0.107,22,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3052","D11",0.1121,22,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3053","E11",0.1205,22,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3054","F11",0.119,22,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3055","G11",0.1332,22,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3056","H11",0.1377,22,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3057","A11",0.1076,24,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3058","B11",0.1145,24,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3059","C11",0.107,24,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3060","D11",0.1127,24,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3061","E11",0.1217,24,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3062","F11",0.1195,24,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3063","G11",0.137,24,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3064","H11",0.1496,24,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3065","A11",0.1081,26,1,"1-A11","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",2
+"3066","B11",0.1143,26,1,"1-B11","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",2
+"3067","C11",0.1069,26,1,"1-C11","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",2
+"3068","D11",0.1125,26,1,"1-D11","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",2
+"3069","E11",0.1214,26,1,"1-E11","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3070","F11",0.1206,26,1,"1-F11","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",2
+"3071","G11",0.1421,26,1,"1-G11","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",2
+"3072","H11",0.1677,26,1,"1-H11","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",2
+"3257","A12",0.1159,0,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3258","B12",0.1141,0,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3259","C12",0.2519,0,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3260","D12",0.1198,0,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3261","E12",0.1149,0,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3262","F12",0.1254,0,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3263","G12",0.1199,0,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3264","H12",0.1133,0,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3265","A12",0.1133,2,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3266","B12",0.1111,2,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3267","C12",0.0979,2,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3268","D12",0.1167,2,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3269","E12",0.1252,2,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3270","F12",0.1232,2,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3271","G12",0.1201,2,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3272","H12",0.1112,2,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3273","A12",0.1142,4,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3274","B12",0.1112,4,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3275","C12",0.1122,4,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3276","D12",0.1174,4,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3277","E12",0.1229,4,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3278","F12",0.1245,4,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3279","G12",0.1222,4,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3280","H12",0.1117,4,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3281","A12",0.1141,6,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3282","B12",0.1102,6,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3283","C12",0.1336,6,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3284","D12",0.1184,6,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3285","E12",0.1196,6,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3286","F12",0.1235,6,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3287","G12",0.1229,6,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3288","H12",0.1125,6,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3289","A12",0.1141,8,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3290","B12",0.1104,8,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3291","C12",0.1386,8,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3292","D12",0.1176,8,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3293","E12",0.1171,8,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3294","F12",0.1237,8,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3295","G12",0.1245,8,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3296","H12",0.1127,8,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3297","A12",0.1142,10,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3298","B12",0.1107,10,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3299","C12",0.1395,10,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3300","D12",0.1162,10,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3301","E12",0.1152,10,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3302","F12",0.1235,10,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3303","G12",0.1254,10,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3304","H12",0.1124,10,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3305","A12",0.1139,12,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3306","B12",0.1099,12,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3307","C12",0.1428,12,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3308","D12",0.1164,12,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3309","E12",0.1118,12,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3310","F12",0.1239,12,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3311","G12",0.1257,12,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3312","H12",0.1128,12,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3313","A12",0.1136,14,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3314","B12",0.1101,14,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3315","C12",0.1449,14,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3316","D12",0.1171,14,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3317","E12",0.1088,14,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3318","F12",0.124,14,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3319","G12",0.1248,14,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3320","H12",0.114,14,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3321","A12",0.1134,16,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3322","B12",0.1096,16,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3323","C12",0.1461,16,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3324","D12",0.1164,16,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3325","E12",0.1064,16,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3326","F12",0.1267,16,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3327","G12",0.1241,16,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3328","H12",0.1165,16,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3329","A12",0.1135,18,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3330","B12",0.1099,18,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3331","C12",0.1466,18,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3332","D12",0.1161,18,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3333","E12",0.1056,18,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3334","F12",0.1239,18,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3335","G12",0.1238,18,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3336","H12",0.1171,18,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3337","A12",0.1135,20,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3338","B12",0.1104,20,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3339","C12",0.1452,20,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3340","D12",0.1162,20,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3341","E12",0.1045,20,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3342","F12",0.125,20,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3343","G12",0.1235,20,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3344","H12",0.1199,20,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3345","A12",0.1135,22,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3346","B12",0.1091,22,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3347","C12",0.1442,22,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3348","D12",0.1158,22,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3349","E12",0.1039,22,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3350","F12",0.127,22,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3351","G12",0.128,22,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3352","H12",0.1235,22,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3353","A12",0.1135,24,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3354","B12",0.1097,24,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3355","C12",0.1439,24,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3356","D12",0.1153,24,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3357","E12",0.1041,24,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3358","F12",0.1284,24,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3359","G12",0.1341,24,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3360","H12",0.1287,24,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
+"3361","A12",0.1134,26,1,"1-A12","Y7039 x YHL033C","Liquid","No","Heat Shock","SD-HIS-LEU",3
+"3362","B12",0.1093,26,1,"1-B12","Y7039 x YHL033C","Dried","No","Heat Shock","SD-HIS-LEU",3
+"3363","C12",0.1443,26,1,"1-C12","Y7039 x YHL033C","Liquid","No","RT","SD-HIS-LEU",3
+"3364","D12",0.1156,26,1,"1-D12","Y7039 x YHL033C","Dried","No","RT","SD-HIS-LEU",3
+"3365","E12",0.1033,26,1,"1-E12","Y7039 x YHL033C","Liquid","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3366","F12",0.1283,26,1,"1-F12","Y7039 x YHL033C","Dried","Sporulation Medium","Heat Shock","SD-HIS-LEU",3
+"3367","G12",0.1457,26,1,"1-G12","Y7039 x YHL033C","Liquid","Sporulation Medium","RT","SD-HIS-LEU",3
+"3368","H12",0.1416,26,1,"1-H12","Y7039 x YHL033C","Dried","Sporulation Medium","RT","SD-HIS-LEU",3
